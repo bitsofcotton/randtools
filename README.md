@@ -1,5 +1,5 @@
 # bitsofcotton/randtools
-Simple PRNG and omplement to PRNG. So there's export limiation on the law, none for here.
+Simple PRNG and complement to PRNG. So there's export limiation on the law, none for here.
 
 # En/Decryption - SHA - PRNG
 There exists entropy decreasingly loop on them, might be precederes exists.
@@ -18,4 +18,8 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   a(PRNG, k) * in + b(PRNG, k) in F_p(PRNG, k), for each blocks, shifts, minimum rand blocks and maximum rand another blocks en/dec.
 
 * Simple PRNG
-  
+  based on transcendal numbers generater taylor series, so with no complicated series, the structure
+  for x = x_0 + x_1 * p' + x_2 * p'^2 + ... numbers, f(x):=a_0+a_1*x+a_2*x^2+...
+  f(x):=&lt;x,a&gt;, so with F_(p^k), x_l:=&lt;a'_l,[1,x]&gt; f(x)|_F_(p^k) = Sum_l a''_l*[1, x_l],
+  for them, b_k:=f(x)|coefficient of y_k, y := y_0 + y_1 * p' + ... == f(x)|_F_(p^k).
+  For results, b_k/b_k+1, k for pair steps.

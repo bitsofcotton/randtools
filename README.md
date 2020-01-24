@@ -21,4 +21,5 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   f(x):=&lt;[1,x,x^2,...],a&gt;, so with F_(p^k), x_l:=&lt;a'_l,[1,x]&gt;, f(x)|_F_(p^k) = Sum_l a''_l*[1, x_l],
   for them, returns y_k s.t. y := y_0 + y_1 * p' + ... == f(x)|_F_(p^k).
   But for this, f(x) fundementally only shuffles entropy, so collecting entropy is the matter.
-  N.B. with F_p'^2, it has a slight possibility to calculate whole f(x) with only their accuracy, but it's not.
+  N.B. with F_p'^2, it has a slight possibility to calculate whole f(x) with only their accuracy, but it's not,
+  so F_(p'^p') accuracy is able to them.

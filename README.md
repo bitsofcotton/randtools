@@ -23,7 +23,8 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   for them, returns y_k s.t. y := y_0 + y_1 * p' + ... == f(x)|\_F\_(p^k).
   But for this, f(x) fundementally only shuffles entropy, so collecting entropy is the matter.
   N.B. with F_p'^2, it has a slight possibility to calculate whole f(x) with only their accuracy, but it's not,
-  so F_(p'^p') accuracy is able to do them.
+  so F_(p'^p') accuracy is able to do them.  
+  To harden this, please refer p2.
 * Simple PKI (pre shared key):  
   PSend(Decrypted): PKI Pair(Key1, Decrypted, Key1', Random):  
     ALICE(Key2, Key1, Decrypted, Key1', Random) <=> BOB(Key3, Key1', Random, PEnc(Decrypted, (Key1, Key1', Random))  

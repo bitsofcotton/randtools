@@ -39,6 +39,6 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   
 # General Tips
 According to some google's xor description page, the bit operations can be described as a matrix-vector operation and normalize ones.
-(This is because b0\*b1 := b0 & b1, b0 + b1 := (b0 | b1) * 2, not b0 := 1 - b0), and operator + is described as addr that is implemented with
+(This is because b0\*b1 := b0 & b1, b0 + b1 := (b0 | b1) * (b0 + b1), not b0 := 1 - b0), and operator + is described as addr that is implemented with
 positive logic is only using them. So with them, any operations that results N operations can be described as a bit operations s.t. operator +, -, | on the bits.
 So this results: A[0, 1, x0, x1, ..., xn] | B[0, 1, x0, x1, ..., xn]) =: y in {0,1}^{n+3} loop is the result of the operations. this results : y_results := A_0[0, 1, x_0, ..., x_n] | ... | A_m[0, 1, x_0, ..., x_n] .

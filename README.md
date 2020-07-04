@@ -41,6 +41,6 @@ There exists entropy decreasingly loop on them, might be precederes exists.
 According to some google's xor description page, the bit operations can be described as a matrix-vector operation and bit count conditions on F_2^n.
 (This is because b0 and b1 = b0 * b1, b0 or b1 = not (not b0 and not b1), not b0 = 1 - b0, operator + is described as addr that is implemented with
 positive logic is only using them. So with them, any first order operations that results N operations can be described as a matrix operations on the bits:
-y = <a_0,x>\*...\*<a_n,x>, recursive of this also this form. This results log y = sum log(<a_k,x>).
+y = <a_0,x>\*...\*<a_n,x>, recursive of this also this form. This results x' = P^-1 * x, y = P * A * \[x', x'^2, ...\].
 
 So with good PRNG, random matrix B \* \[0, 1, x\] := y operation seems to harden the ones.

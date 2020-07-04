@@ -39,8 +39,8 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   
 # General Tips
 According to some google's xor description page, the bit operations can be described as a matrix-vector operation and bit count conditions on F_2^n.
-(This is because b0 and b1 = not (not b0 or not b1), b0 or b1 = b0 + b1 / |b0 + b1|, not b0 = 1 - b0, operator + is described as addr that is implemented with
-positive logic is only using them. So with them, any operations that results N operations can be described as a matrix operations on the bits.
-So this results: A\[0, 1, x0, x1, ..., xn\] =: y in {0,1}^{n+3} loop is the result of the operations. this results : y_results := A_n\*...\*A_0\[0, 1, x_0, ..., x_n\] .
+(This is because b0 and b1 = b0 * b1, b0 or b1 = not (not b0 and not b1), not b0 = 1 - b0, operator + is described as addr that is implemented with
+positive logic is only using them. So with them, any first order operations that results N operations can be described as a matrix operations on the bits:
+y = <a_0,x>\*...\*<a_n,x>, recursive of this also this form.
 
 So with good PRNG, random matrix B \* \[0, 1, x\] := y operation seems to harden the ones.

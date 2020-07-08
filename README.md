@@ -39,6 +39,6 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   
 # General Tips
 According to some google's xor description page, the bit operations can be described as a matrix-vector operation and bit count conditions on F_2^n.
-(This is because b0 and b1 = b0 * b1, b0 xor b1 = b0 + b1 in F_2, not b0 = 1 xor b0, b0 or b1 = not (not b0 and not b1), operator + is described as addr that is implemented with a positive logic is only using them. So with them, any first order operations that results N operations can be described as a matrix operations on the bits in F_2^n, A in F_2^{n\*n}: y = Pi (A_k * x) this results y_result = Pi (A_result_k * x). (&lt;\[\[1, 1\], \[1, 0\]\]\[x, y\], \[\[1, 1\], \[1, 0\]\]\[x, y\]&gt; = ... = y and not x. so with x^2 = x, &lt;\[\[1, 1\],\[1, 0\]\] \[x, y\], \[1, 1\]&gt; should be the one, but not.)
+(This is because b0 and b1 = b0 * b1, b0 xor b1 = b0 + b1 in F_2, not b0 = 1 xor b0, b0 or b1 = not (not b0 and not b1), operator + is described as addr that is implemented with a positive logic is only using them. So with them, any first order operations that results N operations can be described as a matrix operations on the bits in F_2^n, A in F_2^{n\*n}: y = Ax + (Bx)^\*2 this results y_result = sum((A_k\*x)^\*k). (&lt;\[\[1, 1\], \[1, 0\]\]\[x, y\], \[\[1, 1\], \[1, 0\]\]\[x, y\]&gt; = ... = y and not x. so with x^2 = x, &lt;\[\[1, 1\],\[1, 0\]\] \[x, y\], \[1, 1\]&gt; should be the one, but not.)
 
-So with good PRNG, random matrix sum Pi (B_k\*x) := y operation seems to harden the ones.
+So with good PRNG, random matrix sum (A_k\*x)^\*k := y operation seems to harden the ones.

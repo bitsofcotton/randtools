@@ -39,6 +39,6 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   
 # General Tips
 According to some google's xor description page, the bit operations can be described as a matrix-vector operation and bit count conditions on F_2^n.
-(with F_p, large enough p in P, a xor b = a + b, a and b = (a + b) / 2, not a = - a, any first order operations that results N operations can be described as a matrix operations on the bits in int, A in F_p^{n\*n}: y = Ax (each mod 2, if y_k &gt; p / 2, not y_k) so recursive also apply.)
+(with F_p, large enough p in P, a xor b = a + b, a and b = (a + b) / 2, not a = - a, any first order operations that results N operations can be described as a matrix operations on the bits in F_p, A in F_p^{n\*n}: y = Ax (each mod 2, if y_k &gt; p / 2, not y_k) so recursive also apply.)
 
 So with good PRNG, random matrix on F_p, Ax := y operation seems to harden the ones.

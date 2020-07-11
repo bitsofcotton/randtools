@@ -39,6 +39,6 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   
 # General Tips
 According to some google's xor description page, the bit operations can be described as a matrix-vector operation and bit count conditions on F_2^n.
-(with 1-bit mantissa float, a xor b = (2 * (a + b)) / 2, a and b = (a + b) / 2 any first order operations that results N operations can be described as a matrix operations on the bits in 1-bit mantissa float, A in (F_2\times F_k)^{n\*n}: y = Ax.)
+(with int, a xor b = (2 * (a + b)) / 2, a and b = (a + b) / 2 any first order operations that results N operations can be described as a matrix operations on the bits in int, A in N^{n\*n}: y = Ax (each mod 2).)
 
 So with good PRNG, random matrix sum (A_k\*x)^\*k := y operation seems to harden the ones.

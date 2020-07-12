@@ -41,4 +41,4 @@ There exists entropy decreasingly loop on them, might be precederes exists.
 According to some google's xor description page, the bit operations can be described as a matrix-vector operation and bit count conditions on F_2^n.
 (with F_p, large enough p in P, and that chain, a xor b = a + b, a and b = (a + b) / 2, not a = 1 xor a, any first order operations that results N operations can be described as a matrix operations on the bits in F_p_0, A in F_p_0^{n\*n}: y = Ax (each mod 2) so recursive also apply with another p_1, ..., p_m chains.)
 
-So with good PRNG, random matrix on F_p_k chain, x_{n+1}=A_n x_n, each x_n, A_n elements in F_p_n^, then, each A_{n+1}, x_{n+1} elements in F_p_{n+1} operation seems to harden the ones.
+So with good PRNG, random matrix on F_p_k chain, x_{n+1}=A_n x_n, each x_n, A_n elements in F_p_n, then, each A_{n+1}, x_{n+1} elements in F_p_{n+1} operation seems to harden the ones.

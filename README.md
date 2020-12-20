@@ -38,5 +38,5 @@ There exists entropy decreasingly loop on them, might be precederes exists.
   But, there's no such protocols.
   
 # General Tips
-With 2^x:=\[1, x_0, ...,x_n, x_0 and x_1, ..., x_{n - 1} and x_n, ..., x_0 and ... and x_n\] form, the operation 'and' and 'not' is described as A in R^{N\*N}, A\*2^x, and recursive of another similar matrixes is also in them, so any functions that inputs n + 1 bits and output m bits, they can be described as R^{m*(n+1)} matrix.  
+With 2^x:=\[1, x_0, ...,x_n, x_0 and x_1, ..., x_{n - 1} and x_n, ..., x_0 and ... and x_n\] form, the operation 'and' and 'not' is described as A in R^{N\*N}, A\*2^x, and recursive of another similar matrixes is also in them, so any functions that inputs n bits and output n bits, they can be described as R^{N\*N} matrix.  
 So with good PRNG, such random matrix A and A \* 2^x seems to harden the original prng series. 

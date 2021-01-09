@@ -41,6 +41,15 @@ There exists entropy decreasingly loop on them, might be precederes exists.
 With 2^x:=\[1, x_0, ...,x_n, x_0 and x_1, ..., x_{n - 1} and x_n, ..., x_0 and ... and x_n\] form, the operation 'and' and 'not' is described as A in R^{N\*N}, A\*2^x, and recursive of another similar matrixes is also in them, so any functions that inputs n bits and output n bits, they can be described as R^{N\*N} matrix.  
 So with good PRNG, such random matrix A and A \* 2^x seems to harden the original prng series. 
 
+# General Tips 2
+If we deal with if ... else ... methods, if we can have x_k := ifthenbit, we can handle them with
+if ... block with A, else ... block with B, x_k\*A + (1-x_k)\*B matrix.
+
+# General Tips 3
+If we deal them with psnd alternative unsafe algorithms, it believes outside of peano's axiom that to be A subset B{N}, B subset N, A/~ ~2 B/~3 on N.
+I don't know whether this is valid or not for calculating only with n bits on left and right on 2^x meanings.  
+If we can't deal with them, please check conv_check alternatives.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

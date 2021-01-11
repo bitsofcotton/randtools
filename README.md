@@ -46,7 +46,7 @@ If we deal with if ... else ... methods, if we can have x_k := ifthenbit, we can
 if ... block with A, else ... block with B, x_k\*A + (1-x_k)\*B matrix.
 
 # General Tips 3
-If we deal them with psnd alternative unsafe algorithms, it believes outside of peano's axiom that to be A subset B{N}, B subset N, A/~ ~2 B/~3 on N.
+If we deal them with psnd alternative unsafe algorithms, it believes outside of peano's axiom that to be A subset 2^N, B subset N, A/~ ~2 B/~3 on N, ~3 == id.
 I don't know whether this is valid or not for calculating only with n bits on left and right on 2^x meanings.  
 If we can't deal with them, please check conv_check alternatives.
 

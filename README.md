@@ -45,6 +45,10 @@ So with good PRNG, such random matrix A and A \* 2^x seems to harden the origina
 If we deal with if ... else ... methods, if we can have x_k := ifthenbit, we can handle them with
 if ... block with A, else ... block with B, x_k\*A + (1-x_k)\*B matrix.
 
+# General Tips Tips
+2^x is defined by x and all combination on latter one are in the former one.
+Because of this, the matrix describes any of the peano's axiom valid neuman computer program input to output relation.
+
 # General Tips 3
 If we deal them with psnd alternative unsafe algorithms, it believes outside of peano's axiom that to be A subset 2^N, B subset N, A/~ ~2 B/~3 on N, ~3 == id.
 I don't know whether this is valid or not for calculating only with n bits on left and right on 2^x meanings.  

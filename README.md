@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-If we deal with {x_k} as eigenvalues on X, tr(X)=Sum x_k, det(X)=Pi x_k, so, in Q with 1st bit on floor, Sum\_k det(X\_k)=lb(det(2^(Sum\_k X\_k))), so with this matrix and exp, log on matrix, we can describe any of the operation from F_2^n to F_2^m as X in Q^(n\*m) with non linear operation.
+If we deal with {x_k} as eigenvalues on X, tr(X)=Sum x_k, det(X)=Pi x_k, so, in Q with 1st bit on floor, Sum\_k det(X\_k)=lb(det(2^(Sum\_k X\_k))), so with this matrix and exp, log on matrix, (but this is Xor\_l And\_k x\_kl,) we can describe any of the operation from F_2^n to F_2^m as X in Q^(n\*m) with non linear operation.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-If we deal with {x_k} as eigenvalues on X, tr(X)=Sum x_k, det(X)=Pi x_k, so, in Q with 1st bit on floor, Sum\_k det(X\_k)=Sum\_k lb(2^(det(X\_k)))=lb(Pi\_k (det(2^X\_k)))=lb(det(Pi\_k 2^(X\_k)))=lb(det(2^(Sum\_k X\_k))) if 0 < det (and Jordan cell condition), so with this matrix and exp, log on matrix, (but this is Xor\_l And\_k x\_kl, so with (a xor b) xor (a and b) == a or b, this can describe any of the operation on Turing machine on Z/(nZ) on any n in Z) we can describe any of the operation from F_2^n to F_2^m as X in Q^(m\*n) with non linear operation.
+If we deal with diag(X\_k x), X\_k in R^{n\*n}, x in {0, 1}^n, det diag((Sum X\_k) x) = lb 2^(det diag((Sum X\_k) x) = lb det 2^diag((Sum X\_k) x) = lb det (2^diag(X\_0 x)...2^diag(X\_{n-1} x)) = lb Pi det 2^diag(X\_k x) = Sum lb det 2^diag(X\_k x) = Sum det(X\_k x) = Xor\_k det(X\_k x) in F\_2, det(X\_k x) == And\_m Xor\_n x\_{m,n}\*x\_n. So any function on {0, 1}^n to {0, 1}^n is described as {Y\_k}\_{k=1}^n subset F\_2^{n\*n}.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

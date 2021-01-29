@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-If we deal with diag(X\_k x), X\_k in R^{n\*n}, x in {0, 1}^n, det diag((Sum X\_k) x) = lb 2^(det diag((Sum X\_k) x) = lb det 2^diag((Sum X\_k) x) = lb det (2^diag(X\_0 x)...2^diag(X\_{n-1} x)) = lb Pi det 2^diag(X\_k x) = Sum lb det 2^diag(X\_k x) = Sum det(X\_k x) = Xor\_k det(X\_k x) in F\_2, det(X\_k x) == And\_m Xor\_n x\_{m,n}\*x\_n. So any function on {0, 1}^n to {0, 1}^n is described as {Y\_k}\_{k=1}^n subset F\_2^{n\*n}.
+If we deal with diag(X\_k x), X\_k in R^{n\*n}, x in {0, 1}^n, det diag((Sum X\_k) x) = lb 2^(det diag((Sum X\_k) x) = lb det 2^diag((Sum X\_k) x) = lb det (2^diag(X\_0 x)...2^diag(X\_{n-1} x)) = lb Pi det 2^diag(X\_k x) = Sum lb det 2^diag(X\_k x) = Sum det(X\_k x) = Xor\_k det(X\_k x) in F\_2, det(X\_k x) == And\_m Xor\_n x\_{m,n}\*x\_n. So any function on {0, 1}^n to {0, 1}^n is described as {Y\_k}\_{k=1}^n subset F\_2^{n\*n} s.t. det diag Y(x) = det diag ((\<y\_k,x\>))\_k.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

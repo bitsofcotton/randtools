@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == Sum\_k Sum\_s Pi\_l y\_{k,l,s}x\_s == det(diag(Y x)) == Pi\_k Sum\_l y\_{k,l}x\_l == Sum\_s Pi\_k y\_{k,s}x\_s \<=\> for any s Pi\_k y\_{k,s} == Sum\_k Pi\_l y\_{l,k,s} \<=\> exp(Sum\_k y'\_k) == Sum\_k exp(Sum\_l y''\_{k, l}) \<= each k, exp(y'\_k) == exp(Sum\_l y''\_{k, l}), x\_0:=1.
+Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == Sum\_k Sum\_s Pi\_l y\_{k,l,s}x\_s == det(diag(Y x)), Pi\_k Sum\_l\<y\_{k,l},x\> == Sum\_s Pi\_k y\_{k,s}x\_s \<=\> for any s Pi\_k y\_{k,s} == Sum\_k Pi\_l y\_{l,k,s} \<=\> exp(Sum\_k y'\_k) == Sum\_k exp(Sum\_l y''\_{k, l}) \<= each k, exp(y'\_k) == exp(Sum\_l y''\_{k, l}), x\_0:=1.
 
 # General Tips 5
 x^+=f(x) case, with general tips 4, x^+\_k:=det(Y\_k x), so with Z.row(k):=(Y\_k^{-1}).row(k), if we can define Y\_k^{-1} as reasonable one, we can define g(x^+)=x 's g := h\[Z\].

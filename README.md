@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-Otherwise, X\_k in R^{exists status length\*n}, x in {2, 1}^n, since (a xor b) xor (a and b) == (a or b), det(diag(X\_k x)) == And\_m Xor\_n x\_{m,n}\*x\_n, 
+Otherwise, X\_k in R^{exists status length\*n}, x in {2, 1}^n, since (a xor b) xor (a and b) == (a or b), det(diag(X\_k x)) == And\_m Xor\_n x\_{m,n}\*x\_n, so with negated logic, Not And\_k And\_m Xor\_n x\_{m,n,k}\*x\_n == 1 + Pi\_k det diag(X\_k x). This is, 1+2^Sum\_k Sum\_l \<x\_{k,l}, x\>
 
 # General Tips 5
 x^+=f(x) case, with general tips 4, x^+\_k:=det diag Y\_k x, so with Z.row(k):=(Y\_k^{-1}).row(k), if we can define Y\_k^{-1} as reasonable one, we can define g(x^+)=x 's g := h\[Z\].

@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == Sum\_k 2^lb(det diag(X\_k x)) == Sum\_k 2^Sum\_m lb \<x\_{k,m}, x\> = det(Y x). (because x in {0, 1}, x_0:=1, each \<x'',x\> in {2, 1}, taylor series are in them with error O(&theta; in \]-1, 1\[ if ||x|| == 1), then, all combination is in the determinant.).
+Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == Sum\_k 2^lb(det diag(X\_k x)) == Sum\_k 2^Sum\_m lb \<x\_{k,m}, x\> = det(Y x). (because x in {0, 1}, x_0:=1, each \<x'',x\> in {2, 1}, taylor series are in them with error in n0 term cutoff, then, all combination is in the determinant.).
 So we get Y in R^{n0\*n0}, any operation on x&rightarrow;f(x) that Turing machine with finite bit is described as det(Yx).
 
 # General Tips 5

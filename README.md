@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == det(Y x). (because x in {0, 1}, x_0:=1, taylor series are in the determinant because all combinations are in them.).
+Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == det(Y diag(x)). (because x in {0, 1}, x_0:=1, taylor series are in the determinant because all combinations are in them, then, Sum(det(X\_k diag(x))) == Sum\_sigma Pi\_m x\_sigma(m) (Pi\_k a^(k)\_m,sigma(m)).).
 
 # General Tips 5
 x^+=f(x) case, with general tips 4, x^+\_k:=det(Y\_k x), so with Z.row(k):=(Y\_k^{-1}).row(k), if we can define Y\_k^{-1} as reasonable one, we can define g(x^+)=x 's g := h\[Z\].

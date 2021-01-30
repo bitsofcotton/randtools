@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-If we deal with diag(X\_k x), X\_k in R^{n\*n}, x in {2, 1}^n, Sum\_k det diag(X\_k x) = lb(2^(Sum\_k det 2^(lb(diag(X\_k x)))) = lb(det lb(2^{1/n})2^(2^(Sum\_k lb(diag(X\_k x))))) in F\_2, det(X\_k x) == And\_m Xor\_n x\_{m,n}\*x\_n, lb((Xx)+(Yx))=\[...,lb(||x\_k||cos&theta;||y\_k||cos&psi;),...\]=\[...,lb(\<x'\_k+y'\_k,x\>),...\] (||x||==1). So any function on {2, 1}^n to {2, 1}^n is described as {Y\_k}\_{k=1}^n subset F\_2^{n\*n} s.t. det diag Y(x) = det diag ((\<y\_k,x\>))\_k.
+If we deal with diag(X\_k x), X\_k in R^{n\*n}, x in {2, 1}^n, Sum\_k det diag(X\_k x) = lb(2^(Sum\_k det 2^(lb(diag(X\_k x)))) = lb(lb(2^{1/n})2^det(2^(Sum\_k lb(diag(X\_k x))))) in F\_2, det(X\_k x) == And\_m Xor\_n x\_{m,n}\*x\_n, lb((Xx)+(Yx))=\[...,lb(||x\_k||cos&theta;||y\_k||cos&psi;),...\]=\[...,lb(\<x'\_k+y'\_k,x\>),...\] (||x||==1). So any function on {2, 1}^n to {2, 1}^n is described as {Y\_k}\_{k=1}^n subset F\_2^{n\*n} s.t. det diag Y(x) = det diag ((\<y\_k,x\>))\_k.
 
 # General Tips 5
 x^+=f(x) case, with general tips 4, x^+\_k:=det diag Y\_k x, so with Z.row(k):=(Y\_k^{-1}).row(k), if we can define Y\_k^{-1} as reasonable one, we can define g(x^+)=x 's g := h\[Z\].

@@ -56,8 +56,7 @@ If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
 Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == det(diag(Y x)), this is done by GSVD {X\_0, X\_1} == {U R\_0 V, U R\_1 V}, decompose 2 of them, then, all of them, and, this is able to be done because X\_k in Z^{n\*n} (not {0, 1}^{n\*n}).  
-So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}. (This is also because any taylor series are in this form x\_k in {0, 1} if some hyper plane have zero function value.)  
-det diag(Y x) == \<y, x\> because \<a,x\>\<b,x\> == \<A x + b, x\> == \<b, x\> + \<&Lambda;x', x'\> == \<b, x\> + Sum &lambda;\_k\<u\_k,x\>\<u\_k,x\> == \<b, x\> + Sum &lambda;\_k\<u\_k, x\> == \<c,x\>, recursive (in first digit meaning, so accuracy is the matter).
+So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

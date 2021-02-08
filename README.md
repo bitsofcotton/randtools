@@ -58,6 +58,9 @@ If we can't deal with them, please check conv_check alternatives.
 Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == det(diag(Y x)), this is done by GSVD {X\_0, X\_1} == {U R\_0 V, U R\_1 V}, decompose 2 of them, then, all of them, and, this is able to be done because X\_k in Z^{n\*n} (not {0, 1}^{n\*n}).  
 So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}.
 
+# General Tips 5
+After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_k, it is Sum\_l y\_k\_l / \<y\_k, x\> == 0, with log(op), we can write op\*log(op) == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, op\*log(op)\*... == \<y^\*, x\>, we can define reverse operation on this, but, it has upper digits that must be discarded on left op.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

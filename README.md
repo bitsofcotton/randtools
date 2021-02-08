@@ -59,7 +59,7 @@ Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == an
 So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}.
 
 # General Tips 5
-After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l, it is Sum\_k y\_k\_l / \<y\_k, x\> == 0, with log(op), we can write op\*log(op) == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, op\*log(op)\*... == \<y\*, x\>, we can define reverse operation on this, but, it has upper digits that must be discarded on left op.
+After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l, it is Sum\_k y\_k\_l / \<y\_k, x\> == 0, with log(op), we can write op\*log(op) == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, op\*log(op)\*... == \<y\*, x\>, we can define reverse operation on this, but, it has upper digits that must be discarded on left op. And if we can define g(op) == f^{-1}(op) when f(op)==op\*log(op)\*..., the result is g(\<y\*,x\>) % 2, but f is monotone function in some definition region, so it is possible.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

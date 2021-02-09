@@ -59,14 +59,14 @@ Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == an
 So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digit meaning.
 
 # General Tips 5
-After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit), but f is also a function, op == g(\<y\*,x\>) % 2 == \<y\*\*,x\> in first digit form.
+After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit), but f is also a function, op == g(\<y\*,x\>) % 2 == \<y\*\*,x\> in first digit form. (if Y is max rank.)
 
 # General Tips 6
 After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some error cut off can define no first digit condition
 but the most bit condition with absolute value.
-Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off.
+Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. (rank op == 2 then this).
 With below, we get op\_{most bit} == abs(\<y\*\*,x\>), (= \<y\*\*,x\>\<y\*\*,x\> = \<exists B x,x\>).  
-N.B. taylor series of abs(x)==sqrt(x^2) is not in C^&omega; (even not in C^1), so we can't handle in the form \<y\*\*,x\> with abs as the form them.
+N.B. taylor series of abs(x)==sqrt(x^2) is not in C^&omega; (even not in C^1), nor x^2 case, since rank op == 2, so we can't handle in the form \<y\*\*,x\> with abs nor x^2 as the form them.
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some error condition on most digit condition.

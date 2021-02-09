@@ -63,10 +63,7 @@ After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx
 
 # General Tips 6
 After general tips 5, we can handle abs(sin(&pi;/2\*\<y\*,x\>)) with some error cut off can define no first digit condition.
-If we can define sin(...) == (a_1+\<y\*,x\>)...(a\_m+\<y\*,x\>), the conversion below can define them.
-But in general, this is in (a_1\<y\*,x\>^2+b_1\<y\*,x\>+c_1)..., because the condition in C shouldn't describe.
-But the condition below with expanded form, we can define \<y\*\*,x\> as the result.
-Since op is holomorphic, sin(op) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off.
+Since op is holomorphic, sin(op) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. With below, we get op == \<y\*\*,x\>.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

@@ -56,7 +56,7 @@ If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
 Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == det(diag(Y x)), this is done by GSVD {X\_0, X\_1} == {U R\_0 V, U R\_1 V}, decompose 2 of them, then, all of them, and, this is able to be done because X\_k in Z^{n\*n} (not {0, 1}^{n\*n}).  
-So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}.
+So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digit meaning.
 
 # General Tips 5
 After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit), but f is also a function, op == g(\<y\*,x\>) % 2 == \<y\*\*,x\> in first digit form.
@@ -64,14 +64,16 @@ After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx
 # General Tips 6
 After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some error cut off can define no first digit condition
 but the most bit condition with absolute value.
-Since op_{first digit} is holomorphic, sin(op) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. With below, we get op == abs(\<y\*\*,x\>).
+Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off.
+With below, we get op\_{most bit} == abs(\<y\*\*,x\>), (= \<y\*\*,x\>\<y\*\*,x\> = \<exists B x,x\>).
 
 # General Tips 7
-Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some error condition on most digit (and it's first digit) condition.
+Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some error condition on most digit condition.
 so log y = 2 log(Ax) condition, if we are lucky, we can define invert condition.
 
 # General Tips 8
-So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, abs(Ax) in first digit meaning seems to harden the PRNG if original PRNG is better enough (long period and no bias on distribution.).
+So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, abs(Ax) in first digit meaning seems to harden the PRNG
+if original PRNG is better enough (long period and no bias on distribution.).
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

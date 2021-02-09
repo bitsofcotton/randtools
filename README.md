@@ -66,8 +66,7 @@ After general tips 5, we can handle abs(sin(&pi;/2\*\<y\*,x\>)) with some error 
 If we can define sin(...) == (a_1+\<y\*,x\>)...(a\_m+\<y\*,x\>), the conversion below can define them.
 But in general, this is in (a_1\<y\*,x\>^2+b_1\<y\*,x\>+c_1)..., because the condition in C shouldn't describe.
 But the condition below with expanded form, we can define \<y\*\*,x\> as the result.
-
-eg. a and b in \[1,a,b\] form, a/2 + b/2, a or b in \[1,a,b\] form, 1.5a+1.5b, a xor b in \[1,a,b\] form, a+b, then, sin(&pi;/2...).
+Since op is holomorphic, sin(op) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

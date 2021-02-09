@@ -71,7 +71,7 @@ Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some er
 so log y = 2 log(Ax) condition, if we are lucky, we can define invert condition.
 
 # General Tips 8
-So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, Ax in first digit meaning seems to harden the PRNG if original PRNG is better enough (long period and no bias on distribution.).
+So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, abs(Ax) in first digit meaning seems to harden the PRNG if original PRNG is better enough (long period and no bias on distribution.).
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

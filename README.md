@@ -59,7 +59,7 @@ Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == an
 So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}.
 
 # General Tips 5
-After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when f(op)==d/dx_1 ... d/dx_{n-1}, x_n:=1, op == g(\<y\*,x\>) % 2, but g^-1 == f is also a function, g^-1(op) == \<y\*,x\> % 2, so any of them can be written in op == \<y\*, x\> in first digit form.
+After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit), but f is also a function, op == g(\<y\*,x\>) % 2 == \<y\*\*,x\> in first digit form.
 
 # General Tips 6
 After general tips 5, we can handle abs(sin(&pi;/2\*\<y\*,x\>)) with some error cut off can define no first digit condition.

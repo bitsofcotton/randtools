@@ -65,6 +65,10 @@ After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx
 After general tips 5, we can handle abs(sin(&pi;/2\*\<y\*,x\>)) with some error cut off can define no first digit condition.
 Since op is holomorphic, sin(op) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. With below, we get op == \<y\*\*,x\>.
 
+# General Tips 7
+Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit (and it's first digit) condition.
+so x=A^-1 y can be defined if we're lucky.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

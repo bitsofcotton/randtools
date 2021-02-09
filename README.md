@@ -62,8 +62,9 @@ So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}.
 After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit), but f is also a function, op == g(\<y\*,x\>) % 2 == \<y\*\*,x\> in first digit form.
 
 # General Tips 6
-After general tips 5, we can handle abs(sin(&pi;/2\*\<y\*,x\>)) with some error cut off can define no first digit condition.
-Since op is holomorphic, sin(op) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. With below, we get op == \<y\*\*,x\>.
+After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some error cut off can define no first digit condition
+but the most bit condition with absolute value.
+Since op_{first digit} is holomorphic, sin(op) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. With below, we get op == abs(\<y\*\*,x\>).
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit (and it's first digit) condition.

@@ -64,9 +64,9 @@ After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx
 # General Tips 6
 After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some error cut off can define no first digit condition
 but the most bit condition with absolute value.
-Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. (rank op == 2 then this).
+Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. (rank sin(op) == 2 then this).
 With below, we get op\_{most bit} == abs(\<y\*\*,x\>), (= \<y\*\*,x\>\<y\*\*,x\> = \<exists B x,x\>).  
-N.B. taylor series of abs(x)==sqrt(x^2) is not in C^&omega; (even not in C^1), nor x^2 case, since rank op == 2, so we can't handle in the form \<y\*\*,x\> with abs nor x^2 as the form them.
+N.B. taylor series of abs(x)==sqrt(x^2) is not in C^&omega; (even not in C^1), nor x^2 case, since rank op == 1, so we can't handle in the form \<y\*\*,x\> with abs nor x^2 as the form them.
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some error condition on most digit condition.

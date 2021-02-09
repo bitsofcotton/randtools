@@ -67,8 +67,8 @@ but the most bit condition with absolute value.
 Since op_{first digit} is holomorphic, sin(op) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. With below, we get op == abs(\<y\*\*,x\>).
 
 # General Tips 7
-Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit (and it's first digit) condition.
-so x=A^-1 y can be defined if we're lucky.
+Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some error condition on most digit (and it's first digit) condition.
+so log y = 2 log(Ax) condition, if we are lucky, we can define invert condition.
 
 # General Tips 8
 So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, Ax in first digit meaning seems to harden the PRNG if original PRNG is better enough (long period and no bias on distribution.).

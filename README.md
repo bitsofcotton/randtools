@@ -81,4 +81,4 @@ if original PRNG is better enough (long period and no bias on distribution.).
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 
 # Archive
-This repository is archived, so without bugreport, will no change.
+This repository is archived, so without bugreport, will no change. 2020/02/09 version is archived. It's ok.

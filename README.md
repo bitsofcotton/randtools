@@ -66,7 +66,7 @@ After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some erro
 but the most bit condition with absolute value.
 Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off.
 With below, we get op\_{most bit} == abs(\<y\*\*,x\>), (= \<y\*\*,x\>\<y\*\*,x\> = \<exists B x,x\>).  
-N.B. taylor series of abs(x)==sqrt(x^2) is not in C^&omega;, so we can't handle in the form \<y\*\*,x\> with abs as the form them.
+N.B. taylor series of abs(x)==sqrt(x^2) is not in C^&omega; (even not in C^1), so we can't handle in the form \<y\*\*,x\> with abs as the form them.
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some error condition on most digit condition.

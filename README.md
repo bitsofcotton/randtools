@@ -66,7 +66,7 @@ After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some erro
 but the most bit condition with absolute value.
 Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. (rank sin(op) == 2 then this).
 With below, we get op\_{most bit} == abs(\<y\*\*,x\>), (= \<y\*\*,x\>\<y\*\*,x\> = \<exists B x,x\>).  
-N.B. taylor series of abs(x)==sqrt(x^2) is not in C^&omega; (even not in C^1), nor x^2 case, since rank op == 1, so we can't handle in the form \<y\*\*,x\> with abs nor x^2 as the form them.
+N.B. taylor series of abs(x)==sqrt(x^2) is not in C^&omega; (even not in C^1), nor x^2 case, since rank op == 1, so we can't handle in the form \<y\*\*,x\> with abs nor x^2 as the form them, lagrange multiplier neither.
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some error condition on most digit condition.
@@ -76,9 +76,18 @@ so log y = 2 log(Ax) condition, if we are lucky, we can define invert condition.
 So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, abs(Ax) in first digit meaning seems to harden the PRNG
 if original PRNG is better enough (long period and no bias on distribution.).
 
+# General Tips 9
+If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
+so zero condition is valid. (with lagrange multipliers, all condition is valid.)
+So p-adic computer is also described with sum det(X x) form (but X in Q^{some m\*n}) so with abs(\<y,x\>) form y in Q^n.
+
+If we work with x\_k in \[0, &alpha;\[ that integer styled, the description abs(\<a,x\>) form is valid with some error,
+so recursived style of this can be described in op_{first digit} meaning recursive, then, abs sin meaning.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
+* https://osdn.net/projects/bitsofcotton-randtools/
 
 # Archive
 This repository is archived, so without bugreport, will no change. 2020/02/09 version is archived. It's ok.

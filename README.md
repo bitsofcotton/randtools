@@ -85,7 +85,7 @@ So p-adic computer is also described with sum det(X x) form (but X in Q^{some m\
 If we deal with large enough matrix \[x_2,..,x_{n+1}\]:=A\[x_1, ..., x_n\], with shrinking range \[x_0,...,x\_m\], m\<n,
 the shrinked range is described as : \[x\_{n+1},...,x\_{n+1+m}\:=B\[x_0,...,x_m\]+b because each x_k is described as
 \<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m\] + b\_k\_...\_0,...\>,...\]\>. So step some range and get invariant value
-is also valid operation with no error if one function recursion.
+is also valid operation with no error if large one function recursion exists.
 
 If we work with x\_k in \[0, &alpha;\[ that integer styled, the description abs(\<a,x\>) form is valid with some error,
 so recursived style of this can be described in op_{first digit} meaning recursive, then, abs sin meaning.

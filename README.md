@@ -87,10 +87,7 @@ the shrinked range is described as : \[x\_{n+1},...,x\_{n+1+m}\:=B\[x_0,...,x_m\
 \<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m\] + b\_k\_...\_0,...\>,...\]\>. So step some range and get invariant value
 is also valid operation with no error if larger one function recursion exists.  
 So to prevent this, some random methods compete with this s.t. permutation after making rand() series, so multiply and first
-digit method is also in this.
-
-If we work with x\_k in \[0, &alpha;\[ that integer styled, the description abs(\<a,x\>) form is valid with some error,
-so recursived style of this can be described in op_{first digit} meaning recursive, then, abs sin meaning.
+digit method is also in them.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

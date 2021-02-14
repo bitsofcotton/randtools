@@ -62,7 +62,7 @@ So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digi
 After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit), but f is also a function, op == g(\<y\*,x\>) % 2 == \<y\*\*,x\> in first digit form. (if Y is max rank.)
 
 # General Tips 6
-After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some error cut off can define no first digit condition
+After general tips 5, we can handle sin(&pi;/2\*(op_{first digit} - 0.5 + f(op_{first_digit},&pi;)) with some error cut off can define no first digit condition
 but the most bit condition with absolute value.
 Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off. (rank sin(op) == 2 then this).
 With below, we get op\_{most bit} == abs(\<y\*\*,x\>), (= \<y\*\*,x\>\<y\*\*,x\> = \<exists B x,x\>).  
@@ -78,7 +78,7 @@ if original PRNG is better enough (long period and no bias on distribution.).
 
 # General Tips 9
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
-so zero condition is valid. (with lagrange multipliers, all condition is valid.)
+so zero condition is valid. (with lagrange multipliers, all condition is valid with recursive of sin ... 's f  in General Tips 6.)
 So p-adic computer is also described with sum det(X x) form (but X in Q^{some m\*n}) so with abs(\<y,x\>) form y in Q^n.
 
 If we work with x\_k in \[0, &alpha;\[ that integer styled, the description abs(\<a,x\>) form is valid with some error,

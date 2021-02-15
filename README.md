@@ -84,7 +84,8 @@ If we work with F\_p p in P, this description is also valid because x in F\_p, #
 so zero condition is valid. (with lagrange multipliers, all condition is valid with recursive of sin ... 's f  in General Tips 6. #{x^k, x: fix, forany k}=p)
 So p-adic computer is also described with sum det(X x) form (but X in Q^{some m\*n}) so with abs(\<y,x\>) form y in Q^n.
 
-If we work with x\_k in \[0, &alpha;\[ that integer styled, the description abs(\<a,x\>) form is valid with some error also in this method.
+If we work with x\_k in \[0, &alpha;\[ that float styled, the description abs(\<a,x\>) form is valid with some error also in this method
+because integer styled numerator F\_p and denominator fixed exists.
 
 # General Tips A
 If we deal with large enough matrix \[x_2,..,x_{n+1}\]:=abs(A\[x_1, ..., x_n,1\]), with shrinking range \[x_0,...,x\_m,1\], m\<n,

@@ -55,7 +55,7 @@ I don't know whether this is valid or not for calculating only with n bits on le
 If we can't deal with them, please check conv_check alternatives.
 
 # General Tips 4
-Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == det(diag(Y x)), this is done by GSVD {X\_0, X\_1} == {U\_0 diag(v\_0) B, U\_1 diag(v\_1) B}, we can make Bx as one of them, then, Pi <u\_k,diag(v\_0)x\>+Pi <u'\_k,diag(v\_1)x\> with U\_0^tdiag(v\_0)^(-1)diag(v\_1)U\_1==LDL^t since X_~ and X_1 is max rank, decompose 2 of them, then, all of them, and, this is able to be done because X\_k in Z^{n\*n} (not {0, 1}^{n\*n}). (a and b) is larger double by (a xor b), but whole of this, it's correct.  
+Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == any operation on them (And Xor ... is pattern match for 1 pattern, (a xor b) xor (a and b) == (a or b)). So with op == Sum\_k det diag (X\_k x) == det(diag(Y x)), this is done by GSVD {X\_0, X\_1} == {U\_0 diag(v\_0) B, U\_1 diag(v\_1) B}, we can make Bx as one of them, then, Pi <u\_k,diag(v\_0)x\>+Pi <u'\_k,diag(v\_1)x\> with U\_0^tdiag(v\_0)^(-1)diag(v\_1)U\_1==LDL^t since X_0 and X_1 is max rank, decompose 2 of them, then, all of them, and, this is able to be done because X\_k in Z^{n\*n} (not {0, 1}^{n\*n}). (a and b) is larger double by (a xor b), but whole of this, it's correct.  
 So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digit meaning.
 
 # General Tips 5

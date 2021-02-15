@@ -89,7 +89,7 @@ If we work with x\_k in \[0, &alpha;\[ that integer styled, the description abs(
 # General Tips A
 If we deal with large enough matrix \[x_2,..,x_{n+1}\]:=abs(A\[x_1, ..., x_n,1\]), with shrinking range \[x_0,...,x\_m,1\], m\<n,
 the shrinked range is described as : abs(\[x\_{n+1},...,x\_{n+1+m}\:=B\[x_0,...,x_m,1\]) because each x_k is described as
-abs(\<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m,1\]\_...\_0,...\>,...\]\>). So step some range and get invariant value
+abs(\<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m,1\],...,...\>,...\]\>). So step some range and get invariant value
 is also valid operation with small error if larger one function recursion exists.  
 So to prevent this, some random methods compete with this s.t. permutation after making rand() series, so multiply and first
 digit method is also in them.

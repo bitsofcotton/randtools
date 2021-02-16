@@ -62,8 +62,8 @@ So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digi
 After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit), this is done by x^2==x if x in {0, 1} and general tips 4 decomposition makes d/dx\_1 op\_0:=d/dx\_1(x\_1..x\_n\*det diag(Yx)) = d/dx\_1 diag(Y x\*(x\_1...x\_n)^1/n)= d/dx\_1 diag(Y (x\*(x\_1...x\_n))) = (d/dx\_1 diag(Yx))\*d/dx\_1(x\_1...x\_n). And we can't eliminate last x\_k's coefficient because 0=0 doesn't have the meaning and doesn't use multiple integrate not to be the condition 0=0.
 
 # General Tips 6
-After general tips 5, we can handle sin(&pi;/2\*(op_{first digit} - 0.5 + f(op_{first_digit},&pi;)) with some error cut off can define no first digit condition
-but the most bit condition with absolute value.
+After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some error cut off can define no first digit condition
+but the most bit condition with absolute value. (first digit condition is in Z^n).
 Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off.
 (rank sin(op) == 2 then this).
 With below, we get op\_{most bit} == abs(\<y\*\*,x\>), (= \<y\*\*,x\>\<y\*\*,x\> = \<exists B x,x\>).
@@ -82,9 +82,9 @@ if original PRNG is better enough (long period and no bias on distribution.).
 # General Tips 9
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with recursive of sin ... 's f  in General Tips 6. #{x^k, x: fix, forany k}=p)
-So p-adic computer is also described with sum det(X x) form (but X in Q^{some m\*n}) so with abs(\<y,x\>) form y in Q^n.
+So p-adic computer is also described with sum det(X x) form (but X in Q^{some m\*n}) so with det diag(Yx) (dim Y = p) = Sum^p abs(\<y,x\>) == \<Yx,x\> form y in Q^n.
 
-If we work with x\_k in \[0, &alpha;\[ that float styled, the description abs(\<a,x\>) form is valid with some error also in this method
+If we work with x\_k in \[0, &alpha;\[ that float styled, the description Sum abs(\<a,x\>) form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.
 
 # General Tips A

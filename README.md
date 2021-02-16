@@ -82,8 +82,9 @@ if original PRNG is better enough (long period and no bias on distribution.).
 # General Tips 9
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with recursive of sin ... 's f  in General Tips 6. #{x^k, x: fix, forany k}=p)
-So p-adic computer is also described with lagrange multipliers and same methods, abs(\<y,x\>) form y in Q^n
-(last abs has rank 1, so we cannot get it to be simplified.).
+So p-adic computer is also described with lagrange multipliers and same methods, Sum \pm abs(\<y,x\>) form y in Q^n
+(last abs has rank 1, so we cannot get it to be simplified.). (last factor gets \<A\[\<y\_0,x\>,...\],\[\<y\_0,x\>,...\]\>,
+this can be rewrited into \<Ax,x\> but A = ULU^t, so we get Sum \pm abs(\<y,x\>).)
 
 If we work with x\_k in \[0, &alpha;\[ that float styled, the description Sum abs(\<a,x\>) form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.

@@ -64,19 +64,16 @@ After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx
 # General Tips 6
 After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some error cut off can define no first digit condition
 but the most bit condition with absolute value. (first digit condition is in Z^n).
-Since op_{first digit} is holomorphic, sin(op_{first digit}) = \<y\*,x\>(1 pm\<y\*,x\>/&pi;)\*... == det diag B x on some cut off.
-(rank sin(op) == 2 then this).
-With below, we get op\_{near bit} == abs(\<y\*\*,x\>), (= \<y\*\*,x\>\<y\*\*,x\> = \<exists B x,x\>).
-(but this has a numerical errors that we can handle for any error rate larger than 0.)   
-N.B. abs(x)==sqrt(x^2) is not in C^1 but in C^0, so weak taylor series can exists, but since rank op == 1,
-so we can't handle in the form \<y\*\*,x\> with abs nor x^2 as the form them, lagrange multiplier neither.
+There exists taylor series tan((op_{first digit}-.5)&pi;/3) det diag B x on some cut off.
+(rank tan(op) == 2 because we make const. delta).
+With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>.
 
 # General Tips 7
-Once we get such operations on n bit to n bit conditions, y=abs(Ax) with some error condition on most digit condition.
-so log y = 2 log(Ax) condition, if we are lucky, we can define invert condition.
+Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit condition.
+If we are lucky, we can define invert condition.
 
 # General Tips 8
-So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, abs(Ax) in first digit meaning seems to harden the PRNG
+So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, Ax in first digit meaning seems to harden the PRNG
 if original PRNG is better enough (long period and no bias on distribution.).
 
 # General Tips 9

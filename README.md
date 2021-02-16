@@ -62,13 +62,13 @@ So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digi
 After general tips 4, we can write log(op) == Sum\_k log(\<y\_k, x\>), with d/dx\_l log(op) == Sum\_k y\_k\_l / \<y\_k, x\>, so we can write op\*d/dx\_l log(op) == d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit), this is done by x^2==x if x in {0, 1} and general tips 4 decomposition makes d/dx\_1 op\_0:=d/dx\_1(x\_1..x\_n\*det diag(Yx)) = d/dx\_1 diag(Y x\*(x\_1...x\_n)^1/n)= d/dx\_1 diag(Y (x\*(x\_1...x\_n))) = (d/dx\_1 diag(Yx))\*d/dx\_1(x\_1...x\_n). And we can't eliminate last x\_k's coefficient because 0=0 doesn't have the meaning and doesn't use multiple integrate not to be the condition 0=0.
 
 # General Tips 6
-After general tips 5, we can handle sin(&pi;/2\*op_{first digit}) with some error cut off can define no first digit condition
-but the most bit condition with absolute value. (first digit condition is in Z^n).
-There exists taylor series tan((op_{first digit}-.5)&pi;/3) det diag B x on some cut off.
+There exists taylor series tan((op_{first digit}-.5)&pi;/3) == det diag B x on some cut off.
 (rank tan(op) == 2 because we make const. delta).
 With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>.
 
 This is also checked with \[epsilon_0, ..., epsilon\_3\] := (A:=\[\[1 0 0 1\] \[1 1 0 1\] \[1 0 1 1\] \[1 1 1 0\]\]) \[a b c d\] with ax+by+c==a nand b + epsilon\_k, the inverse of singular value on limit of A^-1(I+A^-1\*(I+...)) is smaller than 0.23.
+
+This may means tan ... description cannot get accuracy on some condition.
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit condition.
@@ -82,7 +82,7 @@ if original PRNG is better enough (long period and no bias on distribution.).
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with recursive of sin ... 's f  in General Tips 6. #{x^k, x: fix, forany k}=p)
 So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, lagrange multipliers, tan phase with &pi; / (p + 1),
-we can make any operation on them as \<y,\[1,x\]>, x in {0,...,p-1}^n, y in Q^{n+1}.
+we can make any operation on them as \<y,\[1,x\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error.
 
 If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,x\]\> form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.

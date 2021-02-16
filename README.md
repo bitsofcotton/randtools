@@ -86,7 +86,7 @@ So p-adic computer is also described with lagrange multipliers and same methods,
 then we can make series with some cut off, abs(sin(f(p,op))) \* ((1 - sgn...) - (1 + sgn)) + p \* (1+sgn(...))
 this can be rewrited into abs(\<y,x\>) + \<z,x\>, and order is p because of ord x in F_p.)
 
-If we work with x\_k in \[0, &alpha;\[ that float styled, the description Sum \pm abs(\<a\_k,x\>) or \<Y^\*x,x\> form is valid also in this method
+If we work with x\_k in \[0, &alpha;\[ that float styled, the description abs(\<y,x\>)+\<z,x\> form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.
 
 # General Tips A

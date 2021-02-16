@@ -82,9 +82,9 @@ if original PRNG is better enough (long period and no bias on distribution.).
 # General Tips 9
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with recursive of sin ... 's f  in General Tips 6. #{x^k, x: fix, forany k}=p)
-So p-adic computer is also described with lagrange multipliers and same methods, Sum \pm abs(\<y\_k,x\>) == \<Y^\*x,x\> form y in Q^n
-(last abs has rank 1, so we cannot get it to be simplified.). (last factor gets \<A\[\<y\_0,x\>,...\],\[\<y\_0,x\>,...\]\>,
-this can be rewrited into \<Y^tAYx,x\> but Y^tAY = ULU^t, so we get Sum \pm abs(\<y,x\>), and order is p because of ord x in F_p.)
+So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, sin(&pi;/p\*op_{first digit}) and sin(&pi;/(2p)\*op_{first digit}), so we can get abs(sin(f(p,op)))\*(1 - sgn(sin(f(p/2,op))) + (p-abs(sin(f(p,op))))\*(1+sgn(sin(f(p/2, op)))),
+then we can make series with some cut off, abs(sin(f(p,op))) \* ((1 - sgn...) - (1 + sgn)) + p \* (1+sgn(...))
+this can be rewrited into abs(\<y,x\>) + \<z,x\>, and order is p because of ord x in F_p.)
 
 If we work with x\_k in \[0, &alpha;\[ that float styled, the description Sum \pm abs(\<a\_k,x\>) or \<Y^\*x,x\> form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.

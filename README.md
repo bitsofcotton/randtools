@@ -79,11 +79,10 @@ if original PRNG is better enough (long period and no bias on distribution.).
 # General Tips 9
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with recursive of sin ... 's f  in General Tips 6. #{x^k, x: fix, forany k}=p)
-So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, sin(&pi;/p\*op_{first digit}) and sin(&pi;/(2p)\*op_{first digit}), so we can get abs(sin(f(p,op)))\*(1 - sgn(sin(f(p/2,op))) + (p-abs(sin(f(p,op))))\*(1+sgn(sin(f(p/2, op)))),
-then we can make series with some cut off, abs(sin(f(p,op))) \* ((1 - sgn...) - (1 + sgn)) + p \* (1+sgn(...))
-this can be rewrited into abs(\<y,x\>) + \<z,x\>, and order is p because of ord x in F_p.)
+So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, lagrange multipliers, tan phase with &pi; / (p + 1),
+we can make any operation on them as \<y,\[1,x\]>, x in {0,...,p-1}^n, y in Q^{n+1}.
 
-If we work with x\_k in \[0, &alpha;\[ that float styled, the description abs(\<y,x\>)+\<z,x\> form is valid also in this method
+If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,x\]\> form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.
 
 # General Tips A

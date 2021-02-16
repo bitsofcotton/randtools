@@ -68,7 +68,7 @@ There exists taylor series tan((op_{first digit}-.5)&pi;/3) det diag B x on some
 (rank tan(op) == 2 because we make const. delta).
 With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>.
 
-This is also checked with \[epsilon_0, ..., epsilon\_3\] := (A:=\[\[1 0 0 1\] \[1 1 0 1\] \[1 0 1 1\] \[1 1 1 0\]\]) \[a b c d\] with ax+by+c==a nand b + epsilon\_k, the inverse of singular value on exp(A^-1) is smaller than 0.23.
+This is also checked with \[epsilon_0, ..., epsilon\_3\] := (A:=\[\[1 0 0 1\] \[1 1 0 1\] \[1 0 1 1\] \[1 1 1 0\]\]) \[a b c d\] with ax+by+c==a nand b + epsilon\_k, the inverse of singular value on limit of A^-1(I+A^-1\*(I+...)) is smaller than 0.23.
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit condition.

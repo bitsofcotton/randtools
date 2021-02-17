@@ -102,4 +102,4 @@ digit method is also in them.
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Archive
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. bug report is welcomed.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, bug report is welcomed.

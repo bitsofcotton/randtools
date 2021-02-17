@@ -81,11 +81,11 @@ if original PRNG is better enough (long period and no bias on distribution.).
 # General Tips 9
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with op_{first digit} with general tips 4, 5 method with n to p\*n.).
-So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, lagrange multipliers (this is in Z), tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,x\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error.
+So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, this is in Z.
+So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,x\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error
+when we input x\_k into x\_k^some m.
 
-This is also checked with \[epsilon_0, ..., epsilon_2p\] := A\*\[a b c 1\] == , singular value on limit of A^-1(I+A^-1\*(I+...)) .
-
-If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,x\]\> form is valid also in this method
+If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,x^some m\]\> form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.
 
 # General Tips A

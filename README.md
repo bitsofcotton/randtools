@@ -85,16 +85,17 @@ So p-adic computer is also described with lagrange multipliers and same methods,
 So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,x\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error
 when we input x\_k into x\_k^some m\<n.
 
+This is also comparable with \[\[1 0 x\_1\] ... \[1 1^k x\_k\] ... \] \[a b 1\] == epsilon singular values.
+
 If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,(x\*p)^some m\<n\]\> form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.
 
 # General Tips A
-If we deal with large enough matrix \[x_2,..,x_{n+1}\]:=A\[x_1, ..., x_n,1\], with shrinking range \[x_0,...,x\_m,1\], m\<n,
-the shrinked range is described as : \[x\_{n+1},...,x\_{n+1+m}\]:=B\[x_0,...,x_m,1\] because each x_k is described as
-abs(\<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m,1\],...,...\>,...\]\>). So step some range and get invariant value
-is also valid operation with small error if larger one function recursion exists.  
-So to prevent this, some random methods compete with this s.t. permutation after making rand() series, so multiply and first
-digit method is also in them.
+If we deal with large enough matrix \[x_2,..,x_{n+1}\]:=A\[x_1, ..., x_n,1\] (if original matrix is smaller than A, it is also valid),
+with shrinking range \[x_0,...,x\_m,1\], m\<n, the shrinked range is described as : \[x\_{n+1},...,x\_{n+1+m}\]:=B\[x_0,...,x_m,1\]
+because each x_k is described as \<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m,1\],...,...\>,...\]\>.
+So step some range and get invariant value is also valid operation if larger one function recursion exists.  
+Some random methods compete with this s.t. permutation after making rand() series, but this results only larger original matrix.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

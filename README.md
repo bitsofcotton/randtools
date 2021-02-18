@@ -89,8 +89,9 @@ This is also comparable with \[\[1 0 x\_1\] ... \[1 1/(k ? k : p) x\_k\] ... \] 
 
 and op == f, op':=f(x_1,...,x_n)-x_n+1=g(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, \[1,x\]\> == 0 condition.
 
-If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,(x\*p)^some m\<n\]\> form is valid also in this method
-because integer styled numerator F\_p and denominator fixed exists.
+If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,1/x_1,...,1/x_n\]\> form is valid also in this method
+because integer styled numerator F\_p and denominator fixed exists. With this description and invariant below, x\_n+1:=\<y,\[1,x_1,...,x_n\]\>
+condition is valid for \]- &alpha;, &alpha;\[ register computer.
 
 # General Tips A
 If we deal with large enough matrix \[x_2,..,x_{n+1}\]:=A\[x_1, ..., x_n,1\] (if original matrix is smaller than A, it is also valid),

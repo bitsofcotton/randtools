@@ -82,8 +82,8 @@ if original PRNG is better enough (long period and no bias on distribution.).
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with op_{first digit} with general tips 4, 5 method with n to p\*n.).
 So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, this is in Z.
-So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,x\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error
-when we input x\_k into x\_k^some m\<n.
+So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,1/x_1,...,1/x_n\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error
+when we input x\_k into x\_k^((n-1)-n).
 
 This is also comparable with \[\[1 0 x\_1\] ... \[1 1^k x\_k\] ... \] \[a b 1\] == epsilon singular values.
 

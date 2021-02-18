@@ -103,7 +103,7 @@ because each x_k is described as \<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m
 So step some range and get invariant value is also valid operation if larger one function recursion exists.  
 Some random methods compete with this s.t. permutation after making rand() series, but this results only larger original matrix.
 
-N.B. this is the case PRNG depends on only some initial constant variables and slide it's constant variable to variable ones.
+N.B. this is the case PRNG initial stage smaller count than status variable dimensions.
 So this isn't mean some distant result is written in smaller variable dimensions.
 
 # General Tips B

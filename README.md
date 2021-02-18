@@ -85,7 +85,7 @@ So p-adic computer is also described with lagrange multipliers and same methods,
 So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,1/x_1,...,1/x_n\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error
 when we input x\_k into x\_k^((n-1)-n).
 
-This is also comparable with \[\[1 0 x\_1\] ... \[1 1^k x\_k\] ... \] \[a b 1\] == epsilon singular values.
+This is also comparable with \[\[1 0 x\_1\] ... \[1 1/(k ? k : p) x\_k\] ... \] \[a b 1\] == epsilon singular values.
 
 If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,(x\*p)^some m\<n\]\> form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists.

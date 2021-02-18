@@ -108,7 +108,7 @@ So this isn't mean some distant result is written in smaller variable dimensions
 
 N.B. if we have a extreme enough accuracy, we can write down the condition x_n to x_n+x_{n-1}\*a^-k+..., so all of inner condition and
 before state is represented by only one variable. So in this case, we can take the condition below A.row(A.rows() - 1), but in general,
-the condition needs extremely high accuracy, it's not.
+the condition needs extremely high accuracy for vector a and input, it's not.
 
 # General Tips B
 If we have x_n := \<a,\[x_0,...,x_{n-1}\]\>, if we have {x_{kn}}, it's only recursive on A matrix, this causes p0 prediction valid.

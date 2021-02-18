@@ -103,6 +103,11 @@ because each x_k is described as \<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m
 So step some range and get invariant value is also valid operation if larger one function recursion exists.  
 Some random methods compete with this s.t. permutation after making rand() series, but this results only larger original matrix.
 
+N.B. this means PRNG depends on only some initial constant variables. So this isn't mean some distant result is written in smaller variable dimensions.
+
+# General Tips B
+If we have x_n := \<a,\[x_0,...,x_{n-1}\]\>, if we have {x_{kn}}, it's only recursive on A matrix, this causes p0 prediction valid.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

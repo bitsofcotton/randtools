@@ -85,7 +85,8 @@ So p-adic computer is also described with lagrange multipliers and same methods,
 So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,1/x_1,...,1/x_n\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error
 when we input x\_k into x\_k^((n-1)-n). we can take last atan(tan(...)) part as inverse part series, ... part is described as \<y,\[1,x\]\>,
 and we can take some taylor series on 1 / atan(tan(...)) = Pi(\<a_k,\[1,\<y,\[1,x\]\>\]\>), So this with p frequency with x\_k^p on op_{first digit},
-we can take \<y,1/x_1,...,1/x_n\>==1/op so if inverse is exists, p-adic computer is ok on this description.
+we can take \<y,1/x_1,...,1/x_n\>==1/op so if inverse is exists, p-adic computer is ok on this description. So the matrix we look with p-adic is
+inverse input and output matrix, not the one we should take.
 
 This is also comparable with \[\[1 0 x\_1\] ... \[1 1/(k ? k : p) x\_k\] ... \] \[a b 1\] == epsilon singular values.
 
@@ -93,7 +94,7 @@ and op == f, op':=f(x_1,...,x_n)-x_n+1=g(x_1,...,x_n+1), we have invariant, in t
 
 If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,1/x_1,...,1/x_n\]\> form is valid also in this method
 because integer styled numerator F\_p and denominator fixed exists. With this description and invariant below, x\_n+1:=\<y,\[1,x_1,...,x_n\]\>
-condition is valid for \]- &alpha;, &alpha;\[ register computer.
+condition is valid for \]- &alpha;, &alpha;\[ register computer but also with this, it's inverse condition matrix that we have.
 
 # General Tips A
 If we deal with large enough matrix \[x_2,..,x_{n+1}\]:=A\[x_1, ..., x_n,1\] (if original matrix is smaller than A, it is also valid),

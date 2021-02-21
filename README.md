@@ -59,16 +59,14 @@ Otherwise, suppose x in {0, 1}^{n0}, Xor\_k And\_m Xor\_n x\_{k,m,n}\*x\_n == an
 So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digit meaning.
 
 # General Tips 5
-After general tips 4, we can write d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit) (this is done by general tips 4), and, g^n(op) = det(Y' x\*(x\_1\*...x\_n)), so to make f(g^n(f^{n-1}(op))), replace x\_k to x\_k^{n-1}, ok. if we use this conversion (x\_k to x\_k^m) into middle of the transform, it fails.
+After general tips 4, we can write d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit) (this is done by general tips 4), and, g^n(op) = det(Y' x\*(x\_1\*...x\_n)), so to make f(g^n(f^{n-1}(op))), replace x\_k to x\_k^{n-1}, ok. if we use this conversion (x\_k to x\_k^m) into middle of the transform, it fails. And, x':=x\*x_1\*...\*x_n replace is needed per n degree.
 
 # General Tips 6
 There exists taylor series tan((op_{first digit}-.5)&pi;/3) == det diag B x on some cut off.
 (rank tan(op) == 2 because we make const. delta).
-With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>.
+With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>\*x_1\*... .
 
-This is also checked with \[epsilon_0, ..., epsilon\_3\] := (A:=\[\[1 0 0 1\] \[1 1 0 1\] \[1 0 1 1\] \[1 1 1 0\]\]) \[a b c 1\] with ax+by+c==a nand b + epsilon\_k, the inverse of singular value on limit of A^-1(I+A^-1\*(I+...)) is smaller than 0.23.
-
-This may means tan ... description cannot get accuracy on some condition.
+This is also checked with for 2 input, xy, x, y is input, so and is xy, not y is x(1-y) with no error for each.
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit condition.

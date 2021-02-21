@@ -64,7 +64,7 @@ After general tips 4, we can write d/dx\_l op == Pi\_l \<y'\_l, x\> with decreas
 # General Tips 6
 There exists taylor series tan((op_{first digit}-.5)&pi;/3) == det diag B x on some cut off.
 (rank tan(op) == 2 because we make const. delta).
-With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>\*x_1\*... .
+With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>\*(x_1\*...)^some m .
 
 This is also checked with for 2 input, xy, x, y is input, so and is xy, not y is x(1-y) with no error for each.
 
@@ -83,10 +83,8 @@ So p-adic computer is also described with lagrange multipliers and same methods,
 So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,1/x_1,...,1/x_n\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error
 when we input x\_k into x\_k^((n-1)-n). we can take last atan(tan(...)) part as inverse part series, ... part is described as \<y,\[1,x\]\>,
 and we can take some taylor series on 1 / atan(tan(...)) = Pi(\<a_k,\[1,\<y,\[1,x\]\>\]\>), So this with p frequency with x\_k^p on op_{first digit},
-we can take \<y,1/x_1,...,1/x_n\>==1/op so if inverse is exists, p-adic computer is ok on this description. So the matrix we look with p-adic is
+we can take \<y,1/x_1,...,1/x_n\>\*(x_1...x_n)^some m==1/op so if inverse is exists, p-adic computer is ok on this description. So the matrix we look with p-adic is
 inverse input and output matrix, not the one we should take.
-
-This is also comparable with \[\[1 0 x\_1\] ... \[1 1/(k ? k : p) x\_k\] ... \] \[a b 1\] == epsilon singular values.
 
 and op == f, op':=f(x_1,...,x_n)-x_n+1=g(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, \[1,x\]\> == 0 condition.
 

@@ -81,8 +81,10 @@ if original PRNG is better enough (long period and no bias on distribution.).
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with op_{first digit} with general tips 4, 5 method with n to p\*n.).
 So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, this is in Z.
-So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,1/x_1,...,1/x_n\]>, x in {0,...,p-1}^n, y in Q^{n+1} with some error
-when we input x\_k into x\_k^((n-1)-n). we can take last atan(tan(...)) part as inverse part series, ... part is described as \<y,\[1,x\]\>,
+So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,1/x_1,...,1/x_n\]>\*(x\_1...x\_n)^some m, x in {0,...,p-1}^n,
+y in Q^{n+1} with some error
+when we input x\_k into x\_k^((n-1)-n). we can take last atan(tan(...)) part as inverse part series, ... part is described as \<y,\[1,x\]\>\*
+(x\_1...x\_n)^some m,
 and we can take some taylor series on 1 / atan(tan(...)) = Pi(\<a_k,\[1,\<y,\[1,x\]\>\]\>), So this with p frequency with x\_k^p on op_{first digit},
 we can take \<y,1/x_1,...,1/x_n\>\*(x_1...x_n)^some m==1/op so if inverse is exists, p-adic computer is ok on this description. So the matrix we look with p-adic is
 inverse input and output matrix, not the one we should take.

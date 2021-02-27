@@ -66,8 +66,7 @@ There exists taylor series tan((op_{first digit}-.5)&pi;/3) == det diag B x on s
 (rank tan(op) == 2 because we make const. delta).
 With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>\*(x_1\*...)^some m .
 
-This is also checked with for 2 input, {a, b} for {0, 1}, not xy = {a, a}, {a, b} for (b + a) - a : {b, b} for (b + a) - b. 
-we can define min(x, y) as if(x \< y) x else y as (x - y \pm 1) lagrange multiplier, it's linear.
+This is also checked with for 2 input, nand operation inverse matrix eigenvalue is smaller than 0.23.
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit condition.

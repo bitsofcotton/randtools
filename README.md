@@ -89,7 +89,7 @@ and we can take some taylor series on 1 / atan(tan(...)) = Pi(\<a_k,\[1,\<y,\[1,
 we can take \<y,1/x_1,...,1/x_n\>\*(x_1...x_n)^some m==1/op so if inverse is exists, p-adic computer is ok on this description. So the matrix we look with p-adic is
 inverse input and output matrix, not the one we should take.
 
-This is also checked with for 1 input, {x} for {1,p}, \[..., \[1, 1/k, 1/&alpha;\_k\], ...\] matrices eigen value limit,
+This is also checked with for 1 input, {x} for {1,...,p}, \[..., \[1, 1/k, 1/&alpha;\_k\], ...\] matrices eigen value limit,
 but this is the limit of another p' larger than p. If we use recursive of sum and the projection, it's ok with some error cut off.
 
 and op == f, op':=f(x_1,...,x_n)-x_n+1=g(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, \[1,x\]\> == 0 condition.

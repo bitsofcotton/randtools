@@ -70,7 +70,9 @@ This is also checked with for 2 input, nand operation inverse matrix eigenvalue 
 
 # General Tips 7
 Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit condition.
-If we are lucky, we can define invert condition.
+If we are lucky, we can define invert condition. But this doesn't directl mean P==NP, so complexity itself applys
+into accuracy on A matrix and x vector on (x_1\*...\*x_n)^m meaning, m depends accuracy and complexity.
+But in invariant meaning, R^1 multiply is ~.
 
 # General Tips 8
 So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, Ax in first digit meaning seems to harden the PRNG

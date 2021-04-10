@@ -118,8 +118,9 @@ If we have x_n := \<a,\[x_0,...,x_{n-1}\]\>, if we have {x_{kn}}, it's only recu
 
 # General Tips C
 Some deep learning gets matrices on the result and after all, it's only a matrix. So with invariant meaning,
-with A\[x y\]\*(x\_0...y\_0...)^m-&gt;0 matrix, A\_0 y = - A\_1 x, with pseudo inverse on A\_0, y = B x + (x\_0...y\_0...)^(-m)&epsilon; on some,
-the result of them seems such matrix in ideal.
+with A\[x y\]\*(x\_0...y\_0...)^m-&gt;0 matrix, A\_0 y ~ - A\_1 x, with pseudo inverse on A\_0, y = B x + (x\_0...y\_0...)^(-m)&epsilon; on some,
+the result of them seems such matrix in ideal. So if we can find an (linear) invariant on the data series, we can define a (linear) mapping.
+And, the calculation on the computer has to define (linear) invariant if that is a deterministic one function recursive calculated result.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

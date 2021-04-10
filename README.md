@@ -116,6 +116,11 @@ the condition needs extremely high accuracy for vector a and input, it's not.
 # General Tips B
 If we have x_n := \<a,\[x_0,...,x_{n-1}\]\>, if we have {x_{kn}}, it's only recursive on A matrix, this causes p0 prediction valid.
 
+# General Tips C
+Some deep learning gets matrices on the result and after all, it's only a matrix. So with invariant meaning,
+with A\[x y\]\*(x\_0...y\_0...)^m-&gt;0 matrix, A\_0 y = - A\_1 x, with pseudo inverse on A\_0, y = B x + (x\_0...y\_0...)^m&epsilon; on some,
+the result of them seems such matrix in ideal.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

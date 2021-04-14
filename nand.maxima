@@ -1,0 +1,6 @@
+load("simplex");
+m: -4;
+t2: tan(.5),numer;
+t1: tan(.25),numer;
+a: (t2*2)^m,numer;
+minimize_lp(e,[-e<=t2*a*a*x+t2*a*a*y+t1*a*a*z+a*a*w,t2*a*a*x+t2*a*a*y+t1*a*a*z+a*a*w<=e,-e<=t2*a*x+t1*a*y+t1*a*z+a*w,t2*a*x+t1*a*y+t1*a*z+a*w<=e,-e<=t1*a*x+t2*a*y+t1*a*z+a*w,t1*a*x+t2*a*y+t1*a*z+a*w<=e,-e<=t1*a*x+t1*a*y+t2*a*z+a*w,t1*a*x+t1*a*y+t2*a*z+a*w<=e,0<=e,z>=1]),epsilon_lp=0,nonnegative_lp=false;

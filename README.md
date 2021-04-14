@@ -82,27 +82,16 @@ if original PRNG is better enough (long period and no bias on distribution.).
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with op_{first digit} with general tips 4, 5 method with n to p\*n.).
 So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, this is in Z.
-So tan phase with &pi; / (p + 1), we can make any operation on them as \<y,\[1,1/x_1,...,1/x_n\]>\*(x\_1...x\_n)^some m, x in {0,...,p-1}^n,
-y in Q^{n+1} with some error
-when we input x\_k into x\_k^((n-1)-n). we can take last atan(tan(...)) part as inverse part series, ... part is described as \<y,\[1,x\]\>\*
-(x\_1...x\_n)^some m,
-and we can take some taylor series on 1 / atan(tan(...)) = Pi(\<a_k,\[1,\<y,\[1,x\]\>\]\>), So this with p frequency with x\_k^p on op_{first digit},
-we can take \<y,1/x_1,...,1/x_n\>\*(x_1...x_n)^some m==1/op so if inverse is exists, p-adic computer is ok on this description. So the matrix we look with p-adic is
-inverse input and output matrix, not the one we should take.
+We can take tan(&pi; / (p + 1)*\<y,tan(x)\>\*(tan(x\_1)...tan(x\_n))^some m), x in {p,1,...,p-1}^n with some extra small error.
 
-This is also checked with for 1 input, {x} for {1,...,p}, \[..., \[1, 1/k, 1/&alpha;\_k\], ...\] matrices eigen value limit,
-but this is the limit of another p' larger than p. If we use recursive of sum and the projection, it's ok with some error cut off.
+and op':=op(x_1,...,x_n)-x_n+1=some f(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, tan(\[1,x\])\> == 0 condition.
 
-and op == f, op':=f(x_1,...,x_n)-x_n+1=g(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, \[1,x\]\> == 0 condition.
-
-If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,\[1,1/x_1,...,1/x_n\]\> form is valid also in this method
-because integer styled numerator F\_p and denominator fixed exists. With this description and invariant below, x\_n+1:=\<y,\[1,x_1,...,x_n\]\>
-condition is valid for \]- &alpha;, &alpha;\[ register computer but also with this, it's inverse condition matrix that we have.
+If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,tan(\[1,x_1,...,x_n\])\> form is valid also in this method.
 
 # General Tips A
-If we deal with large enough matrix \[x_2,..,x_{n+1}\]:=A\[x_1, ..., x_n,1\] (if original matrix is smaller than A, it is also valid),
-with shrinking range \[x_0,...,x\_m,1\], m\<n, the shrinked range is described as : \[x\_{n+1},...,x\_{n+1+m}\]:=B\[x_0,...,x_m,1\]
-because each x_k is described as \<a_k,\[...,\<a\_{k}\_{k+1},...,\[x\_0,...,x\_m,1\],...,...\>,...\]\>.
+If we deal with large enough matrix tan(\[x_2,..,x_{n+1}\]):=A tan(\[x_1, ..., x_n,1\]) (if original matrix is smaller than A, it is also valid),
+with shrinking range tan(\[x_0,...,x\_m,1\]), m\<n, the shrinked range is described as : tan(\[x\_{n+1},...,x\_{n+1+m}\]):=B tan(\[x_0,...,x_m,1\])
+because each x_k is described as \<a_k,\[...,\<a\_{k}\_{k+1},...,tan(\[x\_0,...,x\_m,1\]),...,...\>,...\]\>.
 So step some range and get invariant value is also valid operation if larger one function recursion exists.  
 Some random methods compete with this s.t. permutation after making rand() series, but this results only larger original matrix.
 
@@ -114,13 +103,13 @@ before state is represented by only one variable. So in this case, we can take t
 the condition needs extremely high accuracy for vector a and input, it's not.
 
 # General Tips B
-If we have x_n := \<a,\[x_0,...,x_{n-1}\]\>, if we have {x_{kn}}, it's only recursive on A matrix, this causes p0 prediction valid.
+If we have x_n := \<a,tan(\[x_0,...,x_{n-1}\])\>, if we have {x_{kn}}, it's only recursive on A matrix, this causes p0 prediction valid.
 
 # General Tips C
 Some deep learning gets matrices on the result and after all, it's only a matrix. So with invariant meaning,
-with A\[x y\]\*(x\_0...y\_0...)^m-&gt;0 matrix, A\_0 y ~ - A\_1 x, with pseudo inverse on A\_0, y = B x + (x\_0...y\_0...)^(-m)&epsilon; on some,
-the result of them seems such matrix in ideal. So if we can find an (linear) invariant on the data series, we can define a (linear) mapping.
-And, the calculation on the computer has to define (linear) invariant if that is a deterministic one function recursive calculated result
+with A\[tan(x) tan(y)\]\*(tan(x\_0)...tan(y\_0)...)^m-&gt;0 matrix, A\_0 tan(y) ~ - A\_1 tan(x), with pseudo inverse on A\_0, tan(y) = B tan(x) + some epsilon.
+the result of them seems such matrix in ideal. So if we can find an invariant on the data series, we can define a mapping.
+And, the calculation on the computer has to define tan linear invariant if that is a deterministic one function recursive calculated result
 on some data length (can be large enough.).
 
 # Another Download Sites
@@ -130,3 +119,4 @@ on some data length (can be large enough.).
 
 # Archive
 This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, bug report is welcomed.
+

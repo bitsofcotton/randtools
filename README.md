@@ -62,17 +62,12 @@ So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digi
 After general tips 4, we can write d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit) (this is done by general tips 4), and, g^n(op) = det(Y' x\*(x\_1\*...x\_n)), so to make f(g^n(f^{n-1}(op))), replace x\_k to x\_k^{n-1}, ok. if we use this conversion (x\_k to x\_k^m) into middle of the transform, it fails. And, x':=x\*x_1\*...\*x_n replace is needed per n degree.
 
 # General Tips 6
-There exists taylor series tan((op_{first digit}-.5)&pi;/3) == det diag B x on some cut off.
-(rank tan(op) == 2 because we make const. delta).
-With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>\*(x_1\*...)^some m .
-
-This is also checked with for 2 input, nand operation inverse matrix eigenvalue is smaller than 0.23.
+There exists taylor series tan((op_{first digit}-.5)&pi;/6) == (det diag B x) / (det diag B' x) on some cut off.
+(rank sin, cos(op) == 2 because we make const. delta, tan theta itself cannot be used because they doesn't converges).
+With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>/\<y'\*\*,\[1,x\]\>\*(x_1\*...)^some m / (x_1\*...)^some m'.
 
 # General Tips 7
-Once we get such operations on n bit to n bit conditions, y=Ax with some error condition on most digit condition.
-If we are lucky, we can define invert condition. But this doesn't directl mean P==NP, so complexity itself applys
-into accuracy on A matrix and x vector on (x_1\*...\*x_n)^m meaning, m depends accuracy and complexity.
-But in invariant meaning, R^1 multiply is ~.
+punched.
 
 # General Tips 8
 So with below, A in Q^{n\*n} : random matrix, x in {0, 1}^n, Ax in first digit meaning seems to harden the PRNG
@@ -82,7 +77,7 @@ if original PRNG is better enough (long period and no bias on distribution.).
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with op_{first digit} with general tips 4, 5 method with n to p\*n.).
 So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, this is in Z.
-We can take tan(&pi; / (p + 1)*\<y,tan(x)\>\*(tan(x\_1)...tan(x\_n))^some m), x in {p,1,...,p-1}^n with some extra small error.
+We can take tan(&pi; / 2(p + 1)*\<y,x\>\*(x\_1...)^some m), x in {p,1,...,p-1}^n with some extra small error.
 
 and op':=op(x_1,...,x_n)-x_n+1=some f(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, tan(\[1,x\])\> == 0 condition.
 
@@ -118,5 +113,5 @@ on some data length (can be large enough.).
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Archive
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, bug report is welcomed.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, bug report is welcomed.
 

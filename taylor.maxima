@@ -1,0 +1,1 @@
+trigsimp(taylor(tan(n*atan(a+b*tan(tan(atan(x)/n)/m))), x, 0, 9));

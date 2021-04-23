@@ -62,7 +62,7 @@ So any op == det diag(Y x), x\_0:=1, x in {0, 1}^n, Y in Q^{n\*n}, in first digi
 After general tips 4, we can write d/dx\_l op == Pi\_l \<y'\_l, x\> with decreasing degree on them, so recursive on this, d/dx\_l ... op == \<y\*, x\>. And if we can define g(op) == f^{-1}(op) when x_n:=1, f(op)==d/dx_1 ... d/dx_{n-1} op == \<y\*,x\> (first digit) (this is done by general tips 4), and, g^n(op) = det(Y' x\*(x\_1\*...x\_n)), so to make f(g^n(f^{n-1}(op))), replace x\_k to x\_k^{n-1}, ok. if we use this conversion (x\_k to x\_k^m) into middle of the transform, it fails. And, x':=x\*x_1\*...\*x_n replace is needed per n degree.
 
 # General Tips 6
-There exists taylor series tan((op_{first digit}-.5)&pi;/6) == (det diag B x) / (det diag B' x) on some cut off.
+There exists taylor series tan((op_{first digit}-.5)&pi;/6) == (det diag B x) \* (x_1 ...)^some m / (det diag B' x) / (x_1 ...)^some m on some cut off.
 (rank sin, cos(op) == 2 because we make const. delta, tan theta itself cannot be used because they doesn't converges).
 With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>/\<y'\*\*,\[1,x\]\>\*(x_1\*...)^some m / (x_1\*...)^some m'.
 
@@ -102,7 +102,7 @@ If we have x_n := \<a,tan(\[x_0,...,x_{n-1}\])\>, if we have {x_{kn}}, it's only
 
 # General Tips C
 Some deep learning gets matrices on the result and after all, it's only a matrix. So with invariant meaning,
-with A\[tan(x) tan(y)\]\*(tan(x\_0)...tan(y\_0)...)^m-&gt;0 matrix, A\_0 tan(y) ~ - A\_1 tan(x), with pseudo inverse on A\_0, tan(y) = B tan(x) + some epsilon.
+with A\[tan(x) tan(y)\]-&gt;0 matrix, A\_0 tan(y) ~ - A\_1 tan(x), with pseudo inverse on A\_0, tan(y) = B tan(x) + some epsilon.
 the result of them seems such matrix in ideal. So if we can find an invariant on the data series, we can define a mapping.
 And, the calculation on the computer has to define tan linear invariant if that is a deterministic one function recursive calculated result
 on some data length (can be large enough.).

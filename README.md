@@ -64,7 +64,7 @@ After general tips 4, we can write d/dx\_l op == Pi\_l \<y'\_l, x\> with decreas
 # General Tips 6
 There exists taylor series tan((op_{first digit}-.5)&pi;/6) == (det diag B x) \* (x_1 ...)^some m / (det diag B' x) / (x_1 ...)^some m on some cut off.
 (rank sin, cos(op) == 2 because we make const. delta, tan theta itself cannot be used because they doesn't converges).
-With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>/\<y'\*\*,\[1,x\]\>\*(x_1\*...)^some m / (x_1\*...)^some m'.
+With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>/\<y'\*\*,\[1,x\]\>.
 
 # General Tips 7
 punched.
@@ -77,16 +77,16 @@ if original PRNG is better enough (long period and no bias on distribution.).
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with op_{first digit} with general tips 4, 5 method with n to p\*n.).
 So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, this is in Z.
-We can take tan(&pi; / 2(p + 1)*\<y,x\>\*(x\_1...)^some m), x in {p,1,...,p-1}^n with some extra small error.
+We can also take op == \<y_0,x\>/\<y_1,x\>, x in {p, 1, ..., p - 1}^n with some extra small error.
 
-and op':=op(x_1,...,x_n)-x_n+1=some f(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, tan(\[1,x\])\> == 0 condition.
+and op':=op(x_1,...,x_n)-x_n+1=some f(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, tan(\[1,x,s\])\> == 0 condition, s is status bits. Status bit is needed because of rank condition, but, s can be rewrited as some A\*\[1,x\].
 
-If we work with x\_k in \[0, &alpha;\[ that float styled, the description \<y,tan(\[1,x_1,...,x_n\])\> form is valid also in this method.
+If we work with x := {x\_k in \[0, &alpha;\[} that float styled, the description \<y,tan(\[1,x,A\*x\])\> form is valid also in this method. So with this, \[- &alpha;, &alpha;\[ can be.
 
 # General Tips A
-If we deal with large enough matrix tan(\[x_2,..,x_{n+1}\]):=A tan(\[x_1, ..., x_n,1\]) (if original matrix is smaller than A, it is also valid),
-with shrinking range tan(\[x_0,...,x\_m,1\]), m\<n, the shrinked range is described as : tan(\[x\_{n+1},...,x\_{n+1+m}\]):=B tan(\[x_0,...,x_m,1\])
-because each x_k is described as \<a_k,\[...,\<a\_{k}\_{k+1},...,tan(\[x\_0,...,x\_m,1\]),...,...\>,...\]\>.
+If we deal with large enough matrix tan(\[1,x+,B\*x+\]):=A\*tan(\[1,x,B\*x\]),
+with smaller A', tan(\[1,x(small)+,B'\*x(small)+\])=
+A'\*tan(\[1,x(small),B'\*x(small)\]).
 So step some range and get invariant value is also valid operation if larger one function recursion exists.  
 Some random methods compete with this s.t. permutation after making rand() series, but this results only larger original matrix.
 
@@ -98,14 +98,12 @@ before state is represented by only one variable. So in this case, we can take t
 the condition needs extremely high accuracy for vector a and input, it's not.
 
 # General Tips B
-If we have x_n := \<a,tan(\[x_0,...,x_{n-1}\])\>, if we have {x_{kn}}, it's only recursive on A matrix, this causes p0 prediction valid.
+If we have x_n := \<a,tan(\[1,x,B\*x\]\>, if we have {x_{kn}}, it's only recursive on A matrix, this causes p0 prediction valid.
 
 # General Tips C
 Some deep learning gets matrices on the result and after all, it's only a matrix. So with invariant meaning,
-with A\[tan(x) tan(y)\]-&gt;0 matrix, A\_0 tan(y) ~ - A\_1 tan(x), with pseudo inverse on A\_0, tan(y) = B tan(x) + some epsilon.
-the result of them seems such matrix in ideal. So if we can find an invariant on the data series, we can define a mapping.
-And, the calculation on the computer has to define tan linear invariant if that is a deterministic one function recursive calculated result
-on some data length (can be large enough.).
+with A\[tan(x) tan(B\*x) tan(y) tan(C\*y)\]-&gt;0 matrix.
+So if we can find an invariant on the data series with some expanded dimensions, we can define a mapping.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
@@ -113,5 +111,5 @@ on some data length (can be large enough.).
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, bug report is welcomed.  
-This repository is close state 2021/04/28.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  
+

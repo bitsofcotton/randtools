@@ -1,4 +1,4 @@
 load("simplex");
 t2: tan(.5),numer;
 t1: tan(.25),numer;
-minimize_lp(e,[-e<=t2*x+t2*y+t1*z+w,t2*x+t2*y+t1*z+w<=e,-e<=t2*x+t1*y+t1*z+w,t2*x+t1*y+t1*z+w<=e,-e<=t1*x+t2*y+t1*z+w,t1*x+t2*y+t1*z+w<=e,-e<=t1*x+t1*y+t2*z+w,t1*x+t1*y+t2*z+w<=e,0<=e,z>=1]),epsilon_lp=0,nonnegative_lp=false;
+minimize_lp(e,[-e<=t2*x+t2*y+t1*z+w,t2*x+t2*y+t1*z+w<=e,-e<=t2*x+t1*y+t1*z+w,t2*x+t1*y+t1*z+w<=e,-e<=t1*x+t2*y+t1*z+w,t1*x+t2*y+t1*z+w<=e,-e<=t1*x+t1*y+t2*z+w,t1*x+t1*y+t2*z+w<=e,z>=1]),epsilon_lp=1e-4;

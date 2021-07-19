@@ -79,7 +79,7 @@ so zero condition is valid. (with lagrange multipliers, all condition is valid w
 So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, this is in Z.
 We can also take op == \<y_0,x\>/\<y_1,x\>, x in {p, 1, ..., p - 1}^n with some extra small error.
 
-p-adic is also checked by toeplitz \* x == f(x) linear permutation, because a\*x+b\+... describes them.
+p-adic is also checked by toeplitz(x) \* a == f(x) linear permutation, because a\*x+b\+... describes them.
 
 and op':=op(x_1,...,x_n)-x_n+1=some f(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, tan(\[1,x,s\])\> == 0 condition, s is status bits. Status bit is needed because of rank condition, but, s can be rewrited as some A\*\[1,x\].
 

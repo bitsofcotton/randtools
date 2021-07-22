@@ -107,6 +107,11 @@ Some deep learning gets matrices on the result and after all, it's only a matrix
 with A\[tan(x) tan(B\*x) tan(y) tan(C\*y)\]-&gt;0 matrix.
 So if we can find an invariant on the data series with some expanded dimensions, we can define a mapping.
 
+# General Tips D
+If we work with sin ... not tan ... to make \% function, we need to add some mirroring into original described function.
+But if so, we can use arcsin ... to revert them, so after all, we can describe any op in F_p into \<a,x\> \* (x_0 ... x_n)^m (some m for some error) description with below methods.
+So \]- 1,1\[ should also so.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

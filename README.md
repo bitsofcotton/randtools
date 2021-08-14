@@ -109,11 +109,13 @@ So if we can find an invariant on the data series with some expanded dimensions,
 
 # General Tips D
 If we work with sin ... not tan ... to make \% function, we need to add some mirroring into original described function.
-But if so, we can use arcsin ... to revert them, so after all, we can describe any op in F_p into \<a,x\> \* (x_0 ... x_n)^m (some m for some error) description with below methods.
+But if so, we can use arcsin ... to revert them, so after all, we can describe any op in F_p into b + \<a,x\> \* (x_0 ... x_n)^m (some m for some error) description with below methods.
 This is also checked by p-adics, so first digit is same as p+1 digit in p-adics if it's in Q, in F_(p^p), so because of this, (ax+b)x^m shifts some, so most digit of x==1 configures others.
 So \]- 1,1\[ should also so.
 
 But unlike tan(...) case, input and output doesn't chain in invariant meaning.
+
+N.B. b is needed because constant. in the equation is also const. and cdot const. part, because of this, the root point is ok and description is valid.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

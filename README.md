@@ -85,8 +85,7 @@ p-adic is also checked by toeplitz(x) \* a == f(x) linear permutation, because a
 
 and op':=op(x_1,...,x_n)-x_n+1=some f(x_1,...,x_n+1), we have invariant, in this case, we can get g as \<y, tan(\[1,x,s\])\> == 0 condition, s is status bits. Status bit is needed because of rank condition, but, s can be rewrited as some A\*\[1,x\].
 
-N.B. we should choose \<y, arctan(\[1,x\])\> with this form, but arctan has not have periods in itself. To make periods valid, we choose y:=arctan(arctan(tan(Ax))) to adjust them, we'll gain tan(y)==(Ax) \% p, so using invariant, each of variables are rewrited to be A\<y,tan(\[1,x,s\])\>.
-So we need status bits, but the rank on them are fixed (construct with each 2 term operator on infinite accuracy computer with table id).
+N.B. we should choose \<y, arctan(\[1,x\])\> with this form, but arctan has not have periods in itself. To make periods valid, we choose tan(a\*y):=tan(Ax) to adjust them, so using invariant, each of variables are rewrited to be A\<y,tan(\[1,x,B x\])\>.
 
 If we work with x := {x\_k in \[0, &alpha;\[} that float styled, the description \<y,tan(\[1,x,A\*x\])\> form is valid also in this method. So with this, \[- &alpha;, &alpha;\[ can be.
 

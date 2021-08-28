@@ -114,6 +114,11 @@ So if we can find an invariant on the data series with some expanded dimensions,
 # General Tips D
 punched.
 
+# General Tips E
+Only for invariant meaning, we can bet 0==arcsin(sin(\<a, x\>)) on the form, so it's also the form 0==\<a, x\>\*(x_1...x_n)^m (exists m for some error).
+So linear invariant meaning from the data, it's also the form: \<d_k, x\>\/(x_1...x_n)^m is ok. So d_k into variable, it's \<d_k, x\>\/(d_1...d_n)^m.
+if we ~ with only ratio on them, it's \<d_k, x\>\/(d_1...d_n)^(1/n).
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

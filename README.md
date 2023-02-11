@@ -120,6 +120,22 @@ Only for invariant meaning, we can bet 0==arcsin(sin(\<a, x\>)) on the form, so 
 So linear invariant meaning from the data, it's also the form: \<d_k, x\>\/(x_1...x_n)^m is ok. So d_k into variable, it's \<d_k, x\>\/(d_1...d_n)^m.
 if we ~ with only ratio on them, it's \<d_k, x\>\/(d_1...d_n)^(1/n).
 
+# General Tips F
+The factor algorithm are described with \[log(2), ..., log(n)\] == exp(Factor(log(\[log(p\_1), ..., log(p\_m)\]))).
+This guarantees us to analyse some well-described structures with some of the small sized structures (from dimension differences).
+However, if the data we treat referes out of the (or larger than) p\_m prime, the structure referes some non measurable condition.
+So first hypothesis upper bound size is the matter to rationally analy something.
+(Factor difference firstly appear \[2, 3, 5\] vs. \[2, 3, 4, 5\] size. So elementary function they supports some of the world by rationally could be categorizable 3 to 5 kind of them.)
+
+However, in this meaning, the function combination theirselves also have number upper bounds.
+Especially, 2 operand operator can be described as 4x4 matrix and so with this, 5^(4x4) pattern could describe any with some compression method (especially with \{compress\} \{decompress\} matrix for each size or whole of the size includes R).
+There's 3 or more operand operators, we cannot shrink them into such size.
+So with above, if first hypothesis is not enough size, this either fails.
+
+Even so, if the \{compress\} or \{decompress\} isn't consistent, the whole hypothesis fails in this General Tips F.
+
+(One of the \{compress\} matrix is described as Factor matrix relation with Factor matrix with some log condition. But with the geometry, they have g != 0. Also, if such \{compress\} has consistent, the geometry of them are alike sheet between sheet with some collision.)
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

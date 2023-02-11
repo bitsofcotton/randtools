@@ -121,10 +121,10 @@ So linear invariant meaning from the data, it's also the form: \<d_k, x\>\/(x_1.
 if we ~ with only ratio on them, it's \<d_k, x\>\/(d_1...d_n)^(1/n).
 
 # General Tips F
-The factor algorithm are described with \[log(2), ..., log(n)\] == exp(Factor(log(\[log(p\_1), ..., log(p\_m)\]))).
+The factor algorithm are described with \[2, ..., n\] == exp(Factor(log(\[p\_1, ..., p\_m\]))).
 This guarantees us to analyse some well-described structures with some of the small sized structures (from dimension differences).
 However, if the data we treat referes out of the (or larger than) p\_m prime, the structure referes some non measurable condition.
-So first hypothesis upper bound size is the matter to rationally analy something.
+So first hypothesis upper bound size is the matter to rationally analyse something.
 (Factor difference firstly appear \[2, 3, 5\] vs. \[2, 3, 4, 5\] size. So elementary function they supports some of the world by rationally could be categorizable 3 to 5 kind of them.)
 
 However, in this meaning, the function combination theirselves also have number upper bounds.

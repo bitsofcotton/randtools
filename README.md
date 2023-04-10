@@ -145,6 +145,18 @@ However, we can always make imitated implicit repeat operation on original strea
 Therefore, we can focus the high layer invariant eg. (f (h a b)) == (g (f a) (f b)) like symbolic ones. (This is named as logarithm with f == log, g == +, h == *. As we based on N, so they're possible simple enough.)
 But this is already done before or around 19century for most of the parts, and after then, with (f A) == (B) like group theory method instead of them also already done by some of the large efforts. So we should refer them first (by some of the search engine or some of the GPT based Q&A service.)
 
+# General Tips I
+To take invariant on any of f makes some information convergence.
+This is because: #{(x,y)|y=f(x),x in {0,1}^n, y in {0,1}} == 2^(n+1),
+also: #{f|y=f(x),x in {0,1}^n, y in {0,1}} == 2^(2^n).
+Taking invariant causes input counting, making much combination causes
+output complexity counting.
+
+A 1-valued 1-output combination causes invariants in the vector up to aleph_0 dimension, so high layer of them, structure text invariant (like a lisp but we can make any of the operators into 2 operand of them each) causes vector up to aleph_1 dimension.
+With below, the complexity remains up to aleph_1 combination on f output counting meaning. However, if we separate x vector as some separation not to be fixed size, it's up to aleph_omega causes x\rightarrow n combination.
+So, if we take fixed size input and we can separate them as clear to 2 operand operators on them, it's up to aleph_1 combination.
+However, if we can take invariants on such of them, it's up to 2^(n+1) combination.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

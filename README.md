@@ -180,8 +180,9 @@ With calculating lower bound:
 * 4 term: 2^2^4 : 2^5^2
 * 5 term: 2^2^5 : 2^6^2
 * 6 term: 2^2^6 : 2^7^2
+* 
 So larger than 2^2^6 table with 2^7 \* 7 bit data we should check them then.
-The 6 term with no raw group operation inside them could cause R^13 vector for the function, if we reduce and concat them, it's R^7 for each. Our magic number is up to 7 in general (the wide known experiment result the larger than them sometimes described as a number block of telephone region or so.). So it might from our limitation.
+The 6 term with no raw group operation inside them could cause R^13 vector for the function, if we reduce and concat them, it's R^7 for each. Our magic number is up to 7 in general (the wide known experiment result the larger than them sometimes described as a number block of telephone region or so.). So they might from our limitation.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

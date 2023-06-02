@@ -180,9 +180,15 @@ With calculating lower bound:
 * 4 term: 2^2^4 : 2^5^2
 * 5 term: 2^2^5 : 2^6^2
 * 6 term: 2^2^6 : 2^7^2
-* 
+
 So larger than 2^2^6 table with 2^7 \* 7 bit data we should check them then.
 The 6 term with no raw group operation inside them could cause R^13 vector for the function, if we reduce and concat them, it's R^7 for each. Our magic number is up to 7 in general (the wide known experiment result the larger than them sometimes described as a number block of telephone region or so.). So they might from our limitation.
+
+# General Tips M
+General Tips J, K, L might be caused by counting the element of aleph_aleph_omega.
+Since we can only construct constructive elements upto aleph_omega when we're using the element of the set who have cardinal up to aleph_..., so they might be caused by some of the outside but catched by some ~.
+We might say some of the multiple of perspective can causes, if they are true, one of the perspective principle of combination is from: to count up (x, y) or to count up f-complexity.
+Also, multiple of the perspective could attach the information part when the object is not tangled enough.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

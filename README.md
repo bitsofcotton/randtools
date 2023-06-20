@@ -234,6 +234,23 @@ So they might be caused by dimension barrier transformation between some of the 
 So with them, we might calculate some of the arithmetic N operators with some context treat as some geometrical spaces, they might not on minkovski ones.
 We believe prime factoring some of the numbers causes original arithmetic space to minkovski one but, this isn't proved and we don't know how to treat such ways.
 
+# General Tips R
+Even the perspective from classical physics, the situation unchange.
+
+In such system, especially in the classical eletctronics, it's the problem with closed loop the circuit have. Ordinal systems has a variational approach description which only depends on closed circuit of the calculator we implement.
+So it's on the problem with only (x,y,z) except transient phenomenon.
+This relates on each parts consistency on mathematics.
+
+However, on the context meaning, there exists 4d each electron locus manifold problem.
+So logic gates larger than 4 bit, if there's some uncertain dimensions we cannot configure, (in the meaning to General Tips Q, it's some of the tanglements which cannot described as a bit, literally ((might be, or my inet connection is broken) no known conversion on entanglement on modern physics)), there's also the possibility, but normaly they depends only on some of the PDEs depends only on the closed circuits.
+
+If we describe them as a logic gates (and we can do them), they also causes PDEs, have the case division.
+(i)   to begin with, it's a stationary value, so it's access to the initial value or beyond them.
+(ii)  it's deterministic, even we cannot believe, it's true N/~0 ~2 N/~1 in physical meaning on some spaces.
+(iii) it's only open end, we get/set some of the value related to some object.
+
+So situation unchanges...
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

@@ -260,7 +260,12 @@ So the result is inverse problem of n-th order operator + references.
 If there's some decomposition route to stack some-order operator ..., they can be multiple definition of result.
 This is the condition General Tips R (ii) one of a description.
 
-However, we have exists! prime factoring description th., so I don't have the clue why something strange occurs when we calculate contradiction, and why we can do such calculation.
+However, N is p.i.d., so I don't have the clue why something strange occurs when we calculate contradiction, and why we can do such calculation.
+
+# General Tips T
+Calculating such contradiction in abacus, we need table function and branch condition by statistics other than operator \*,\/,\+,\-.
+In such view, to take statistics and to make branch condition by them can causes such something strange with calculation and their inverse collision.
+However, the operation is reeled as observation after and before calculation, might causes invariant information cohesion.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
@@ -268,5 +273,5 @@ However, we have exists! prime factoring description th., so I don't have the cl
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T.
 

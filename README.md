@@ -248,8 +248,19 @@ If we describe them as a logic gates (and we can do them), they also causes PDEs
 (i)   to begin with, it's a stationary value, so it's access to the initial value or beyond them.
 (ii)  it's deterministic, even we cannot believe, it's true N/~0 ~2 N/~1 in physical meaning on some spaces.
 (iii) it's only open end, we get/set some of the value related to some object.
+(iv)  it's optimization problem stationary value, so we don't decide prior which constraints to be fixed without referring initial value.
 
 So situation unchanges...
+
+# General Tips S
+When prime factoring some number, it's a description of the number recursively operator + recursive.
+This referes plain object as operator +, then, abstract algorithm operator +, then, algorithm repeat operator +, ....
+These recursive doesn't have upper limit of recursive number.
+So the result is inverse problem of n-th order operator + references.
+If there's some decomposition route to stack some-order operator ..., they can be multiple definition of result.
+This is the condition General Tips R (ii) one of a description.
+
+However, we have exists! prime factoring description th., so I don't have the clue why something strange occurs when we calculate contradiction, and why we can do such calculation.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
@@ -257,5 +268,5 @@ So situation unchanges...
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S.
 

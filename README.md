@@ -267,6 +267,17 @@ Calculating such contradiction in abacus, we need table function and branch cond
 In such view, to take statistics and to make branch condition by them can causes such something strange with calculation and their inverse collision.
 However, the operation is reeled as observation after and before calculation, might causes invariant information cohesion.
 
+# General Tips U
+When we apply their collision into variable number, #{f(x,y,z)} doesn't collide variable to variable, however, #{f(x,y,z,w)} has collision, from General Tips Q.
+So C\*C has some structure their selves because they exclude some series of the functions, also, H has internal structure.
+In this meaning, (x,y,z,t) has some structure they excludes.
+
+This is weired conclusion, however, if we make some of the hypothesis, they excludes some of the structures. So we might have a-priori structure they depends on first hypothesis.
+
+In below tracking logic, commonly we don't need to matter the dimension barrier or #f collide if the hypothesis we first make is concrete for the a-priori structure, however, even so, we can think about breaking the barrier after some of the discussion made.
+
+In general, they're reeled into larger system PDEs, come along with some of the initial values.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

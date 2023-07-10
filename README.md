@@ -291,11 +291,18 @@ This is because f(x,y,z) : worst case valid number of the variables, we take hyp
 The amount f(x,y,z) variable number is not a real upper bound of the variables concrete enough, however, if we make the dimension barrier breaking glitch, larger variable number causes unstable nor historical dependant or hypothesis dependant result.
 They might come along with treating some of the variants of the same description, same meaning, another contexts causes some glitch, we take them as a observing or a initial value or a skid.
 
+# General Tips X
+(A function index estimate has glitches on this context, however, this can be caused by untie some of the combination.)
+To take irrational number into tan description, we should make some + dimension on input to same variable.
+However, we cannot make infinite series by tan(ax+b) description, a, b in R, |a|&gt;&gt;1 because they doesn't converges in calculation because of the base increases larger and larger.
+If they converges, any of the R to R is described by (a_0, b_0), ..., (a_5, b_5) as coded in first order (non irrational coefficients case.) (also this can be coded into one number of R).
+Starting from the number (a_0, ..., b_5) in R^12, x in \[0,1\] f(x) in \[-1,1\] can changes the situation, however, in general, they doesn't converge in constructive method, so they're only one of the descriptions.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X.
 

@@ -309,8 +309,8 @@ One angle to decompose then is to make algorithms into tan Ax form, then, analys
 # General Tips Z
 We can think about the glitch as maximum closed set as #A == aleph_omega and breaking dimension barrier causes #B == aleph_(2^omega).
 This don't describe them enough in details.
-So this only causes shirks them in the view of each description consistency into context of real intesimals when we apply them as takinig invariant infinitely recursive.
-(However, real intesimals can be larger than them when we think first combination of the f as worse steep one.)
+So this only causes shirks them in the view of each description consistency into context of real infinitesimals when we apply them as takinig invariant infinitely recursive.
+(However, real infinitesimals can be larger than them when we think first combination of the f as worse steep one.)
 
 # General Tips AA
 However, if the original calculation box is described in physical calculator, there's some loophole to decide such inconsistent values in optimization problem.

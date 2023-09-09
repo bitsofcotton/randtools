@@ -372,7 +372,7 @@ So invariant glitch is generalization to them and the viewpoint of them is for N
 Analogy to them, there might exists the view to invariant glitch from the factor matrix glitch viewpoint which I don't know them at all.
 
 # General Tips AI
-However, the general tipses below doesn't describes multiple to single condition.
+However, the general tipses <strike>below</strike> above doesn't describes multiple to single condition.
 
 The {compress} and {decompress} can be implemented as deterministic and fixed size input, smaller variable size output pairs (can be exchanged).
 
@@ -384,11 +384,24 @@ However, we cannot recognize such ones, it is harder to exist such occasions.
 
 So we don't know enough on the invariant countup glitch and factor matrix glitch.
 
+# General Tips AJ
+In +1 dimension meaning, we can write down input/output as tan(B\*C\*tan(A_0 \[tan(... \[tan(A_n \[x, 1\]), 1\] ...), 1\])).
+
+So to treat A_k as sparse dimension part, we can write down them as tan(B\*C\*A\[x,1\]).
+
+The vanishing part of A_k makes v2v tanglements, so codimension of the A':=f(A_0...A_n) causes matrix C's internal/external topology glitch.
+
+This is the analogy of \[2,3,4,...\]=exp(F log(\[2,3,5,...\])) F codimension part glitch.
+
+So the context makes us to pretend as their codimension extension.
+
+However, we don't know enough on them.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI.
 

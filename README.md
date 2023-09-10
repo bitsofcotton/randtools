@@ -398,7 +398,7 @@ So the context makes us to pretend as their codimension extension.
 However, we don't know enough on them.
 
 # General Tips AK
-In the ratio on invariant and factor, it's 1:log and 1:1/log.
+In the ratio on invariant and factor, it's near 1:log and 1:1/log.
 
 If they're duality, A/factor for some set A might be observation, A/observation might be factor.
 

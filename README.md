@@ -404,11 +404,31 @@ If they're duality, A/factor for some set A might be observation, A/observation 
 
 However, we cannot conclude them directly.
 
+# General Tips AL
+The tips 6 insists (ax+b)/(cx+d) ~ f on some of the error for x in {1,2,...}, f in {1,2,...}.
+
+This is also checked as (ax+b)-f\*(cx+d)&leq;epsilon (cx+d), with this form we get: A\[a,b\]\*A\[a,b\]+f^2B\[c,d\]\*B\[c,d\]-2C\[a,b\]\*\[c,d\]&leq;epsilon^2\*B\[c,d\]\*B\[c,d\].
+
+Summing each rows gets \<A'\[a,b,c,d\],\[a,b,c,d\]\>&leq;epsilon^2\<B'\[c,d\],\[c,d\]\>.
+
+With symmetrizing and decompose, \<\[a',b',c',d'\],\[a',b',c',d'\]\>&leq;epsilon^2\<B''\[a',b',c',d'\],\[a',b',c',d'\]\>.
+
+This leads us to \<(I-epsilon^2 B)\[a',b',c',d'\],\[a',b',c',d'\]\>==0.
+
+If we recover the dimensions for 4 variable traced set, det(I-epsilon^2 B) == 0.
+
+This can be done as eigen values for any epsilon, reverse order track this causes: \<A'\[a,b,c,d\],\[a,b,c,d\]\>&leq;epsilon^2\<B'\[c,d\],\[c,d\]\> makes true.
+So with all of eigen values (because they can be symmetrized.), we get A'\[a,b\]\*\[a,b\]+f^2B'''\[c,d\]\*\[c,d\]-2C\[a,b\]\*\[c,d\]&leq;epsilon^2\*B'''\[c,d\]\*\[c,d\] makes truely exists.
+
+we can pull back them with orthogonal matrices (from making first hypothesis for them), so they are pulled into which is small epsilon problem for epsilon and orthogonalized vector elements. We can change indices for a,b,c,d, and there's no zero elements on first hypothesis, if the epsilon is small enough, it's done.
+
+However, we didn't calculate in numerical ones.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL.
 

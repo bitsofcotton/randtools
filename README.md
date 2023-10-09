@@ -65,9 +65,10 @@ After general tips 4, we can write d/dx\_l op == Pi\_l \<y'\_l, x\> with decreas
 This is also checked by partial integrals that: integrate det diag Y x dx_k == x_k det diag Y x - integrate x_k d/dx_k det diag Y x and d/dx_k them.
 
 # General Tips 6
-There exists taylor series tan((op_{first digit}-.5)&pi;/6) == (det diag B x) \* (x_1 ...)^some m / (det diag B' x) / (x_1 ...)^some m on some cut off.
+There exists taylor series tan((op_{first digit}-.5)&pi;/6) <strike>== (det diag B x) \* (x_1 ...)^some m / (det diag B' x) / (x_1 ...)^some m on some cut off.
 (<strike>rank sin, cos(op) == 2 because we make const. delta,</strike>pass all of the first large dimension multipliers into sin, cos taylors, then, do below, we can get the result. tan theta itself cannot be used because they doesn't converges).
 With below, we get op\_{near bit} == \<y\*\*,\[1,x\]\>/\<y'\*\*,\[1,x\]\>.
+</strike>(2023/10/09 we cannot expand taylor series without adding periods on each det diag B because of factoring them slips).
 
 # General Tips 7
 punched.
@@ -80,7 +81,7 @@ if original PRNG is better enough (long period and no bias on distribution.).
 If we work with F\_p p in P, this description is also valid because x in F\_p, #((ax+b)|\_x:fix)==#(F\_p to F\_p) .
 so zero condition is valid. (with lagrange multipliers, all condition is valid with op_{first digit} with general tips 4, 5 method with n to p\*n.).
 So p-adic computer is also described with lagrange multipliers and same methods, by op_{first digit}, this is in Z.
-We can also take op == \<y_0,x\>/\<y_1,x\>, x in {p, 1, ..., p - 1}^n with some extra small error.
+<strike>We can also take op == \<y_0,x\>/\<y_1,x\>, x in {p, 1, ..., p - 1}^n with some extra small error.</strike>(2023/10/09 same reason tips 6)
 
 p-adic is also checked by toeplitz(x) \* a == f(x) linear permutation, because a\*x+b\+... describes them.
 
@@ -91,9 +92,9 @@ N.B. we should choose \<y, arctan(\[1,x\])\> with this form, but arctan has not 
 If we work with x := {x\_k in \[0, &alpha;\[} that float styled, the description \<y,tan(\[1,x,A\*x\])\> form is valid also in this method. So with this, \[- &alpha;, &alpha;\[ can be.
 
 # General Tips A
-If we deal with large enough matrix tan(\[1,x+,B\*x+\]):=A\*tan(\[1,x,B\*x\]),
+If we deal with large enough matrix <strike>tan(\[1,x+,B\*x+\]):=A\*tan(\[1,x,B\*x\]),
 with smaller A', tan(\[1,x(small)+,B'\*x(small)+\])=
-A'\*tan(\[1,x(small),B'\*x(small)\]).
+A'\*tan(\[1,x(small),B'\*x(small)\]).</strike>(2023/10/09 simpler one) tan \<a,x\>.
 So step some range and get invariant value is also valid operation if larger one function recursion exists.  
 Some random methods compete with this s.t. permutation after making rand() series, but this results only larger original matrix.
 
@@ -109,15 +110,15 @@ If we have x_n := \<a,tan(\[1,x,B\*x\]\>, if we have {x_{kn}}, it's only recursi
 
 # General Tips C
 Some deep learning gets matrices on the result and after all, it's only a matrix. So with invariant meaning,
-with A\[tan(x) tan(B\*x) tan(y) tan(C\*y)\]-&gt;0 matrix.
+with <strike>A\[tan(x) tan(B\*x) tan(y) tan(C\*y)\]-&gt;0</strike>(2023/10/09 simpler one)tan A\[x, y\] matrix.
 So if we can find an invariant on the data series with some expanded dimensions, we can define a mapping.
 
 # General Tips D
 punched.
 
 # General Tips E
-Only for invariant meaning, we can bet 0==arcsin(sin(\<a, x\>)) on the form, so it's also the form 0==\<a, x\>\*(x_1...x_n)^m (exists m for some error).
-So linear invariant meaning from the data, it's also the form: \<d_k, x\>\/(x_1...x_n)^m is ok. So d_k into variable, it's \<d_k, x\>\/(d_1...d_n)^m.
+Only for invariant meaning, we can bet 0==arcsin(sin(\<a, x\>)) on the form<strike>, so it's also the form 0==\<a, x\>\*(x_1...x_n)^m (exists m for some error).
+So linear invariant meaning from the data, it's also the form: \<d_k, x\>\/(x_1...x_n)^m is ok. So d_k into variable, it's \<d_k, x\>\/(d_1...d_n)^m.</strike>(2023/10/09 same reason tips 6).
 if we ~ with only ratio on them, it's \<d_k, x\>\/(d_1...d_n)^(1/n).
 
 # General Tips F
@@ -405,6 +406,7 @@ If they're duality, A/factor for some set A might be observation, A/observation 
 However, we cannot conclude them directly.
 
 # General Tips AL
+<strike>
 The tips 6 insists (ax+b)/(cx+d) ~ f on some of the error for x in {1,2,...}, f in {1,2,...}.
 
 This is also checked as (ax+b)-f\*(cx+d)&leq;epsilon (cx+d), with this form we get: A\[a,b\]\*A\[a,b\]+f^2B\[c,d\]\*B\[c,d\]-2C\[a,b\]\*\[c,d\]&leq;epsilon^2\*B\[c,d\]\*B\[c,d\].
@@ -423,6 +425,8 @@ So with all of eigen values (because they can be symmetrized.), we get A'\[a,b\]
 we can pull back them with orthogonal matrices (from making first hypothesis for them), so they are pulled into which is small epsilon problem for epsilon and orthogonalized vector elements. We can change indices for a,b,c,d, and there's no zero elements on first hypothesis, if the epsilon is small enough, it's done.
 
 However, we didn't calculate in numerical ones.
+</strike>
+-&gt; recheck done, true in first digit, bad in some higher order digit.(2023/10/09)
 
 # General Tips AM
 So with above, the things we matter is concern with N, R grip on the calculater we believe raw N, R shouldn't be effected by macro scale f countup glitch.
@@ -454,11 +458,15 @@ However, we cannot determine the solution and our base numerical calculation who
 
 So we want enthusiastic but, the attacker nor phenomenon nor observer can attack such backbones in principle.
 
+# General Tips AP
+The ongoing machine learning methods uses vector/~ which x~rx, r in R.
+So tips E, normalizing norm can reduce complexity they causes glitches.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP.
 

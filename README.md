@@ -424,11 +424,41 @@ we can pull back them with orthogonal matrices (from making first hypothesis for
 
 However, we didn't calculate in numerical ones.
 
+# General Tips AM
+So with above, the things we matter is concern with N, R grip on the calculater we believe raw N, R shouldn't be effected by macro scale f countup glitch.
+
+In micro meaning, it stands on boolean algebra and constructive methods. This shouldn't slips but in the macro f countup meaning, so this is to take first N, R as index of f, they slips. Worse to describe, we cannot decide by ourself with raw number only theirselves.
+
+Finding N structure by some of the pattern finding can causes index f counting concerns. So white noise structure can be.
+
+To stand raw N, R, we should believe {}-start structure strongly and we must not deviate from law of exclude middles, also should believe N is p.i.d. .
+So we cannot load much functions beat with the structure targets.
+
+Also, if we describe some number concept theirselves, with dim x: f(x) meaning, either the structure they exclude, the first start point of f_k structure can be restricted by this meaning depends on the region the concept effects.
+
+# General Tips AN
+operator +, operator \* with 2 term if the context space is saturated by them, the structure can be inserted by f countup glitch.
+
+However, in prime number theorem, p(n) &lt;&gt;= n/log(n), so decomposition and reconstruction by invariant either has the myths to some size of the sets.
+
+Also, the operator + might inserts only one genus to \pm\infty and only slides one to one map by one shift, so it's simple enough function if we make a crack some of the structures to monolithic ones concern with tips W. (R.B. ISBN 9784000051538)
+
+So with tips AM, we should collect some start points of {1, f_k, g_k}_k=1^k=n as a viewpoint of bitsofcotton/p3 works.
+
+# General Tips AO
+We want to stand raw {} based N without any context dependance.
+This is we want to avoid the serious problematic contexts.
+
+One of the solutions to them is to wrap whole contexts as harmless ones the dimension differed to object.
+However, we cannot determine the solution and our base numerical calculation whole avoid the harmfull contexts by start point nor in our calculation subject brains.
+
+So we want enthusiastic but, the attacker nor phenomenon nor observer can attack such backbones in principle.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO.
 

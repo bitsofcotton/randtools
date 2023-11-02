@@ -485,6 +485,8 @@ However, the macro context can slips in their case ever, so whether the dimensio
 # General Tips AT
 The machine learning with log(atan(\[x,y\])\*...\+...)\+... vector can fix anything because original (atan(\[x,y\])\*...\+...)/... can be thought as operator invariant, log(...) can be thought as period doesn't matter however they can be configured as arbitrary error tolerance, logscale(atan(\[x,y\])\*...) also in this form. The original deep learning method needs period to cover arbitrary operators in general.
 
+However, if machine learning targets each bit as learning and ~ with scalar, any of nand circuit is optimized well with the form, and it's stack of them, the form is also valid.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

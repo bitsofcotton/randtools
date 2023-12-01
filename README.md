@@ -515,10 +515,10 @@ Making conversation with some of the generative AI (google bard) causes finding 
 
  -&gt; uniqueness of the whole can refer root descriptions of single viewpoint by internal stack of the calculation, this is assured by #f countups, invariant of the 3 of the viewpoint causes internal structures they caused by the observation. This can describe any of the quantitative driven description.
 
- -&gt; for viewpoint, multiple of the viewpoint causes 3 of the pillar they exists out of the description they are unique on the whole. This is also assured by the #f countup. This could describe any of the quality driven descriptions, but this is obscure.
+ -&gt; for viewpoint, multiple of the viewpoint causes 3 of the pillar they exists out of the description they are unique on the whole. This is also assured by the #f countup.
 
 
- -&gt; for picking viewpoint, picking not only one viewpoint causes {existence of the any of the data (aleph_omega), existence input output edge surface, data tanglement (also, finding the pattern, #f countupt)} can be some of the pillar we start with. 
+ -&gt; for picking viewpoint, picking not only one viewpoint causes {existence of the any of the data (aleph_omega), existence input output edge surface, data tanglement (also, finding the pattern, #f countupt)} can be some of the pillar we start with. This could describe any of the quality driven descriptions, but this is obscure.
 
 
  -&gt; So the pillar between {N, R, f} and {aleph_omega, in/out surface, #f count up glitch} can mutually support each other.

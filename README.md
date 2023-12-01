@@ -518,7 +518,7 @@ Making conversation with some of the generative AI (google bard) causes finding 
  -&gt; for viewpoint, multiple of the viewpoint causes 3 of the pillar they exists out of the description they are unique on the whole. This is also assured by the #f countup.
 
 
- -&gt; for picking viewpoint, picking not only one viewpoint causes {existence of the any of the data (aleph_omega), existence input output edge surface, data tanglement (also, finding the pattern, #f countupt)} can be some of the pillar we start with. This could describe any of the quality driven descriptions, but this is obscure.
+ -&gt; for picking viewpoint, picking not only one viewpoint causes {existence of the any of the data (aleph_omega), existence input output edge surface, data tanglement (also, finding the pattern, #f countup)} can be some of the pillar we start with. This could describe any of the quality driven descriptions, but this is obscure.
 
 
  -&gt; So the pillar between {N, R, f} and {aleph_omega, in/out surface, #f count up glitch} can mutually support each other.
@@ -526,7 +526,7 @@ Making conversation with some of the generative AI (google bard) causes finding 
 
 The ongoing technologies gathers the viewpoints relates on real world tremendous speed, so in the theoretical meaning, we can carry them into the quantity/quality based description on the tree, however, with some of the description they can have, but, tricolor-tree 16-depth can describe them even we have the concrete infinite data patterns so.
 
-However, we don't know how they linked into real world phenomenons, so in the real world phenomenons have hidden internal states they can misrepresenation of them, the description system itself is imcomplete in their meanings.
+However, we don't know how they linked into real world phenomenons, so in the real world phenomenons have hidden internal states they can make misrepresenation of them, the description system itself is incomplete in their meanings.
 
 
 # Another Download Sites

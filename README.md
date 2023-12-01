@@ -528,6 +528,24 @@ The ongoing technologies gathers the viewpoints relates on real world tremendous
 
 However, we don't know how they linked into real world phenomenons, so in the real world phenomenons have hidden internal states they can make misrepresenation of them, the description system itself is incomplete in their meanings.
 
+# General Tips AW
+So interpreting the datastream meaning, we can get {single viewpoint (aleph_omega), multiple of the viewpoint (aleph_aleph_omega), the stream has hidden part (aleph_aleph_aleph_omega)} chain.
+
+So this might be used as 3 pillar on them, so we can get aleph_..._aleph_omega as infinite chain result by the combination of them.
+
+# General Tips AX
+So return to the myths on the (de)compress? using some of the description on (F_p^k)^m or #f counting, they are described by access to the deviation from the uniqueness of the whole on the single viewpoint, the description causes multiple of the viewpoint out of the consistent pillar, in/output is undefined on the mathematical meaning.
+
+Also, on the tips AW meaning, if we use them to (de)compress, they can access to aleph_..._aleph_omega on the whole, could be the projection around the actual infinite which begin with {const., x, exp(x)} quantity handling.
+
+This can be nonsense description on them the tools we have now, so this is the end of the repository.
+
+# Generall Tips AY
+Also, the description AW can have the outside of the whole of the description, they can be treated as the space which we cannot observe at all.
+
+This is also described as the space which cannot have any attention, however, this could be the probability exists. So our understanding is incomplete ever.
+
+This is also described as unconsiousness on the subject. This could be treated by some of the religious ones, so it's none of our business.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
@@ -535,5 +553,5 @@ However, we don't know how they linked into real world phenomenons, so in the re
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY.
 

@@ -566,11 +566,21 @@ However, the existence of #f causes such optimized structure excludes some serie
 # General Tips BB
 We understood the observation needs the calculation order O(n^6) or so, however, only to collide the uniqueness of the whole, we only need O(n/lg(alpha)) calculation order. This is to stand the viewpoint on high layer and low layer on each block, then, randomly (or another words, completely depends on the data stream) switches them with breaking dimension barrier causes the viewpoint switches some another space. We don't have the language why they are inhibited yet, however, it's non deterministic ones in theoretical about the pigeon hole.
 
+# General Tips BC
+The compress/decompress is the analogy to categorizing the input.
+This is: exists some x, Ax==[0, y] categorization causes only 1 variable with the index of nonzero row.
+
+So (de)?compress is the result they learns some of the habit of some of the ring or N, then, take some index and input one variable.
+
+So in their meaning, taking N as first variable domain causes prime factoring concerns.
+Then, prime factor matrix F concerns some of the {0,1}^n=={0,1}^(p_0^e_0...) ones, they causes function countup with some of the observation theirselves.
+The prime factor also has some of the internal structures they stands, so some of the small number will be fixed, however, I don't know whether large numbers also them, however, prime factor can be created by some smaller hierarchy F_(p_m_k) calculation with F_n calculation with i-unit on F_p.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC.
 

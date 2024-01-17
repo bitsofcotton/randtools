@@ -576,11 +576,29 @@ So in their meaning, taking N as first variable domain causes prime factoring co
 Then, prime factor matrix F concerns some of the {0,1}^n=={0,1}^(p_0^e_0...) ones, they causes function countup with some of the observation theirselves.
 The prime factor also has some of the internal structures they stands, so some of the small number will be fixed, however, I don't know whether large numbers also them, however, prime factor can be created by some smaller hierarchy F_(p_m_k) calculation with F_n calculation with i-unit on F_p.
 
+# General Tips BD
+We regard any of the data as constraints if they're used with some of the context.
+So if {aleph_omega, in/out surface, #f} concerns some of the data (middle of them looks like so), the general optimization problem (they're not actual general, however, we can form them into the one if the problem isn't deviate from some of the convergences) obj. \<Qx,x\> s.t. Ax\<=b ., if we rewrite them into invariant problem, the fixed constraint might from the objective function and whole constraints, since we can write down SAT or some combination with constraint problems into them includes some series of the logics and arithmetics, we can impose the correctness of the middle equation into the fixed constraints. However, the fixed constraint index is obscure with some of the condition they're fixed in real world problems.
+
+So if fixation order of the invariant has multiple meaning, the N has inconsistent part if we start with opt.problem with some sort of the intent they causes constraints treated in R^(n\*m), however they're natual after they're fixed for same world also includes us.
+So the condition might come from lack or carry of the constraints the entity cannot stand, and the theoretical meaning search is the way we understand but not in the first order theory if they're broken in such way. So they might, {}-\>N-\>R-\>R^n-\>R^(n\*m)-\>opt\>N/(m)(inconsistent)-\>R(inconsistent) order, we bet.
+
+However, if such order is truth, we cannot make rigorous distinction on N and N(inconsistent) without some of the type system or so.
+Since we have ZF(C?) with dimension/cardinal barrier, we can bet the consistent structure if we doesn't deviate from them because of optimize problem's numbers' order of the magnitude relationships in first order, this is to bet first order logics and second of them(, first order arithmatic) consistent in possible wide ranges they can cover.
+
+cf. However, to stand the observation is correct stands, the consistency also collaterize our believes on consistency on {}-start combinations.
+
+cf. Heat pretends to like as much many intent as possible to appear in instance of real forms in nature. (However, huge much of the heat doesn't continues enough time length.)
+
+cf. Some sort of the intent uses variational method to form with, this is compatible if the constraint slides.
+
+cf. However, many groups of ongoing mainstream physicist favoures to excludes variational method so to analyse their strict structures as possible details.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC. 2024/01/17 add tips BD.
 

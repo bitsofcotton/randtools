@@ -612,7 +612,7 @@ This can be {0,1}^14 cup {i,j}^2 on #f countup : some different parts with only 
 However, stands on our experiences, this could become false description on the system when they're observed by some existences.
 
 # General Tips BG
-If whole condition can be write down with the uniqueness on the whole on possible outside of the description with {N,R,f}, this condition especially includes mutually support each other some of the existence and one of them with {N,R,f} or their root, the condition can be written down into such Ax\<=b condition with some of the (non-)linear objective function.
+If whole condition can be the condition we can write down with the uniqueness on the whole on possible outside of the description with {N,R,f}, this condition especially includes mutually support each other some of the existence and one of them with {N,R,f} or their root, the condition can be written down into such Ax\<=b condition with some of the (non-)linear objective function.
 
 So the observation condition we call is, to make them into invariant problem and fix the edge with some of the indices on A.row, on some of the stage, they can have parallel (but not the same) condition on the originals.
 If some index chain of the condition has some of the meanings, the observation can change the internal constraint structure meaning on the arithmatic basis.

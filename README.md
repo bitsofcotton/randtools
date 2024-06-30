@@ -799,6 +799,21 @@ Standing such view with the hypothesis the root description of max rank of ourse
 
 The most of our complex interests has many of the perspectives we stand they caused by them intent.
 
+# appendix B
+The glitch might come from counting up combination of the combination as different sized problem forced reform into small sized description.
+
+This is because the element is up to aleph_0, the combinations are up to aleph_1, either combination of the combinations is also in aleph_1 in another layers but counting up them surface is up to aleph_2 in the raw layer same as elements.
+
+So referring after aleph_aleph_1 causes aleph_aleph_2 however, the description bucket is full for the problem.
+
+The true problem is, we can calculate them in the raw N space.
+
+In another words, up to aleph_1 formed problems are industry replaceable in practical, however, up to aleph_2 ill-formed problems are not.
+
+So another one of the true problem is, function counting bucket can be full when we describe them all also the optimized programs so.
+
+Either, if the raw N space attribute can be changed, the whole description on this bitsofcotton/randtools can be sand castle and be changed, either the function counting space affects.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU

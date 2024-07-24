@@ -815,7 +815,7 @@ So another one of the true problem is, function counting bucket can be full when
 Either, if the raw N space attribute can be changed, the whole description on this bitsofcotton/randtools can be sand castle and be changed, either the function counting space affects.
 
 # appendix C
-The upper cardinal reference results seen as head in intent buffer can be seen as another some of the spirits in intent start/end point and initiation.
+The upper cardinal reference results seen as heat in intent buffer can be seen as another some of the spirits in intent start/end point and initiation.
 
 It's non intent structure nor non intent buffer condition, so we cannot describe them in this context.
 

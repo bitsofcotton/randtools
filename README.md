@@ -841,7 +841,7 @@ So after below we conclude outside of the structure we need:
 
 However, they are only one of the representation of aleph_2, aleph_1, aleph_0 by some of the predicates.
 
-Also, our start and standing point is only logics in this article, so they're only one viewpoint around sniffing actual infinite.
+Also, our start and standing point is only logics in this article, so they're only one of a viewpoints around sniffing actual infinite.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

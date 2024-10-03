@@ -630,7 +630,7 @@ However, with the tips above, making binary tree of the function on some system 
 
 This is because binary operator theirselves aren't slip on the variable to variable, also if we gather them as the method with better manner on some of the barrier can exclude such \> 2^2^X phenomenon on the occasion.
 
-Either, without such binary tree, we cannot decompose some of the problem in the safe way. This is because triplet tree can have 4 variables on invariant, such of them causes invariant counting glitch, so we have slipped occasions on some of the existances in such way.
+Either, without such binary tree, we cannot decompose some of the problem in the safe way. This is because triplet tree can have 4 variables on invariant, such of them causes invariant counting glitch, so we have slipped occasions on some of the existences in such way.
 
 # General Tips BI (Retry on General Tips R)
 So we retry general tips R with the information we have now.
@@ -641,7 +641,7 @@ So we retry general tips R with the information we have now.
 (iv)  The description on such system we have is not enough for now.
 
 We can test the hypothesis by doing real compression/decompression algorithms.
-However, doing such test can be a glitch viewing from some administrative existances if (i) is the correct and there's some of the access control glitch, we afraid such existance counter measure if they exists, so we're locked.
+However, doing such test can be a glitch viewing from some administrative existences if (i) is the correct and there's some of the access control glitch, we afraid such existence counter measure if they exists, so we're locked.
 
 (iii) seems not to be the truth because we can think about any of the function on f such #f glitch.
 
@@ -711,9 +711,9 @@ Talked with gemini, we got the result of the root description of the description
 
 {descriptionability} -\>
     \{\{descriptionability, information or energy, reference to initial value and their result heat\}, combination\},
-    \{\{descriptionability, the existance of higher structure, the existance of another one\}, existance of the one\},
+    \{\{descriptionability, the existence of higher structure, the existence of another one\}, existence of the one\},
     \{\{descriptionability, multiple viewpoint, single viewpoint\}, N\},
-    \{the existance that we cannot describe\}
+    \{the existence that we cannot describe\}
 
 However, we cannot consider this is max rank or whether there exists another description root or not now.
 
@@ -730,12 +730,12 @@ So they can have another description when we base some another basis.
 
 # General Tips BQ
 The 4th description of the tips BN can be the subject/object separation matter.
-If they are, the root existance of the description can be them so we cannot separate such existances, however, we can be a external pillar of them by 3 of the subject/object separation senses.
+If they are, the root existence of the description can be them so we cannot separate such existences, however, we can be a external pillar of them by 3 of the subject/object separation senses.
 The root pillar of the description has the glue of them and us as a intention.
 So another words, we're also owned by the description root pillar they cannot separate but the huge ones, however, we can be external of them.
 
 # General Tips BR
-Referencing the fundamental part can be came from some of the subeffect from some existance initial value reference as a heat.
+Referencing the fundamental part can be came from some of the subeffect from some existence initial value reference as a heat.
 
 So please be careful for using these description because this needs handle with care.
 
@@ -756,7 +756,7 @@ Since we're standing on such non uniqueness of the one context to describe such 
 
 So we cannot do them without much calculation on such tan\<a,x\> compression types depends on self similar loop structure, and if they could be described the framework we know, it also causes same description basis on them.
 
-So analogy against to separation of one and another, {descriptionability} can be described as 3 of the pillars. Since they stands on obscurity of the separation itself, the pillars of the result of such start structure can be non unique existances.
+So analogy against to separation of one and another, {descriptionability} can be described as 3 of the pillars. Since they stands on obscurity of the separation itself, the pillars of the result of such start structure can be non unique existences.
 
 Also, if such structure is some of the duality, ones can be described as the similar structure of the tips BN.
 
@@ -770,13 +770,13 @@ To describe outside of the tips BN, it's equivalent to describe world itself fro
 
 The action is also be described as aleph_aleph_omega : us, so it's observation depend contradiction based description, also, if the whole picture is unveiled, the expressiveness of the world decreases and they causes many much of the troubles, so they're Pandora's box.
 
-Also, to stand outside of the world is near the things being unware of that but picks a quarrel with some of the upper existances, from extrapolating our experiance and our religion, so we cannot select doing such things in safe condition from our situation in principle.
+Also, to stand outside of the world is near the things being unware of that but picks a quarrel with some of the upper existences, from extrapolating our experiance and our religion, so we cannot select doing such things in safe condition from our situation in principle.
 
 There might be the safe and valid methods to do such things, however, finding some clue of them is difficult enough from our activity range in life time.
 
-The occult description we can find on the Internet is one of such candidate, however, the description includes the intent of them and also includes the intent of opposite existance of them, so this is culs-de-sac.
+The occult description we can find on the Internet is one of such candidate, however, the description includes the intent of them and also includes the intent of opposite existence of them, so this is culs-de-sac.
 
-To describe outside of tips BN needs to stand outside of outside of tips BN, this is to make hypothesis outside of the {existance of the world, existance of the ourselves, existance of the glue}.
+To describe outside of tips BN needs to stand outside of outside of tips BN, this is to make hypothesis outside of the {existence of the world, existence of the ourselves, existence of the glue}.
 
 So it's also to make the hypothesis negate of them and don't mean the meaning of theirselves, so at best with the condition, we vanish from the context and the yearn for the calculation completely depends on the one vanished from the world, but at the worst, no one spend such calculation, so just vanish. So it's the condition cursed from outside of them.
 
@@ -824,14 +824,23 @@ So after below we conclude outside of the structure we need:
 
 (outside and inside the all:)(actual infinite)
 
--&gt; auto make structure by internal (aleph_aleph_aleph_omega) (some of the observation might have access to here, also compiler optimization method might access here.)
+-&gt; auto make structure by internal (aleph_aleph_aleph_omega)
+(some of the observation might have access to here, also compiler optimization method might access here.)
+(some intent of existence of the glue is connected here.)
+(also something +1 dimension place move here.)
 
 -&gt; auto make crack on the structure by internal (aleph_aleph_omega)
 ((de)?compress result might have access to here.)
+(some intent of existence of the world is connected here.)
+(also something i/o here.)
 
--&gt; auto repair the structure (aleph_omega) (logics always be applied here, this is because low of the exclude middle causes labeling operations.)
+-&gt; auto repair the structure (aleph_omega)
+(logics always be applied here, this is because low of the exclude middle causes labeling operations.)
+(some intent of existence of ourselves is connected here.)
+(also something consistent calculation here.)
 
--&gt; makes outside of the logic (Tips BP) (we're standing here. so out of here cannot be described well. so here's only extrapolation for structures only.)
+-&gt; makes outside of the logic (Tips BP)
+(we're standing here. so out of here cannot be described well. so here's only extrapolation for structures only.)
 
 -&gt; makes logics (Tips AV)
 
@@ -849,5 +858,5 @@ Also, our start and standing point is only logics in this article, so they're on
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC. 2024/01/17 add tips BD, BE, BF. 2024/01/25 add tips BG. 2024/02/03 add tips BH. 2024/02/04 add tips BI. 2024/02/06 add tips BJ. 2024/02/08 add tips BK. 2024/02/09 add tips BL, BM. 2024/02/29 add tips BN, BO. 2024/03/01 add tips BP, BQ, 2024/03/01 add tips BR, BS, fix tips BR. 2024/03/05 add tips BT. 2024/03/07 add tips BU, might close with this. 2024/03/12 add and fix and fix warning. 2024/03/19 add note. 2024/03/20 add tips AF note. 2024/05/19 add appendix. 2024/05-07 add appendix B. 2024/07/24 add appendix C. 2024/10/01 add appendix D. add some of the knowns to appendix D.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC. 2024/01/17 add tips BD, BE, BF. 2024/01/25 add tips BG. 2024/02/03 add tips BH. 2024/02/04 add tips BI. 2024/02/06 add tips BJ. 2024/02/08 add tips BK. 2024/02/09 add tips BL, BM. 2024/02/29 add tips BN, BO. 2024/03/01 add tips BP, BQ, 2024/03/01 add tips BR, BS, fix tips BR. 2024/03/05 add tips BT. 2024/03/07 add tips BU, might close with this. 2024/03/12 add and fix and fix warning. 2024/03/19 add note. 2024/03/20 add tips AF note. 2024/05/19 add appendix. 2024/05-07 add appendix B. 2024/07/24 add appendix C. 2024/10/01 add appendix D. add some of the knowns to appendix D. 2024/10/03 add some of the knowns to appendix D (ii), s/existance/existence/g.
 

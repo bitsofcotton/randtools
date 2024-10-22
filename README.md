@@ -819,7 +819,7 @@ The upper cardinal reference results seen as heat in intent buffer can be seen a
 
 It's non intent structure nor non intent buffer condition, so we cannot describe them in this context.
 
-# appendix D
+# appendix D (separation around subject/object)
 So after below we conclude outside of the structure we need:
 
 (outside and inside the all:)(actual infinite)
@@ -855,7 +855,7 @@ Also, our start and standing point is only logics in this article, so they're on
 # appendix E
 With the result p-series, we need to copy structure from numerical stream by 3-depth is enough for 2nd order saturation.
 The saturation treats collision as is form so they might access (de)?compression, so 6-depth might be enough for observation, 9-depth might be enough for hidden part on the whole but sometimes being jammed as much many variables greater than them.
-This might means 12 or 9 variables means any unique f as access to (de)?compression or enough variable dimension for no hidden variable f with consistent internal states, 16 or 12 variables can access to observation they are greater than collision on the variable dimension or same as 12 variable case below, 20 or 16 variables can access to hidden part better or same as 16 variable case below.
+This might means 12 or 9 variables means any unique f as access to (de)?compression or enough variable dimension for no hidden variable f with consistent internal states, 24 or 18 variables can access to observation they are greater than collision on the variable dimension, 36 or 27 variables can access to hidden part better.
 
 So as a conclusion, at least O(n^6) calcuation is needed to have relation on observation also O(n^9) as a hidden part, however, as a higher order observation result bitcount-wise each bit vectors, they causes only O(n lg n).
 
@@ -867,11 +867,21 @@ This might fixes #f saturation on meaning as a contexts, so the matter is {} - s
 
 We might need to refer Peirce's 'On a New List of Categories, EP1, pp.1-10;W2:49-58' on materialism and mentalism relation by a logic start points which some of the GPTs answers.
 
+N.B. we can do {...,f(x_n),...} stream to {...,f(x_n)\*pred_0(x_n-1)...,...} stream by some layers of the predictions.
+If prediction itself is better enough, prediction and apply once cause vanishes one of a variable dimensions, so it's equivalent to n-depth prediction as O(n lg n) model, however in general, it's not.
+
+Either, the variable dimension {12,24,36} is from the viewpoint deep enough information amounts effects enough, so in copying surface structure and only focus in/outputs, we can convert them as {1-depth, 3-depth, 16variables (4-depth)}.
+Ever with focusing 3 pillars with surface, the last 4-depth needs only 4 variables.
+
+So these are a jargon but each are one of a description sticks on original structures.
+Also, if the structure copying is enough compatible, only the information amount we copy/apply is the matter in which structures we select.
+The compatibility to the structure needs to match in/output alignments and dimensions affects also the amount of the information they effect.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC. 2024/01/17 add tips BD, BE, BF. 2024/01/25 add tips BG. 2024/02/03 add tips BH. 2024/02/04 add tips BI. 2024/02/06 add tips BJ. 2024/02/08 add tips BK. 2024/02/09 add tips BL, BM. 2024/02/29 add tips BN, BO. 2024/03/01 add tips BP, BQ, 2024/03/01 add tips BR, BS, fix tips BR. 2024/03/05 add tips BT. 2024/03/07 add tips BU, might close with this. 2024/03/12 add and fix and fix warning. 2024/03/19 add note. 2024/03/20 add tips AF note. 2024/05/19 add appendix. 2024/05-07 add appendix B. 2024/07/24 add appendix C. 2024/10/01 add appendix D. add some of the knowns to appendix D. 2024/10/03 add some of the knowns to appendix D (ii), s/existance/existence/g. 2024/10/20 add appendix E. 2024/10/21 fix appendix E.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC. 2024/01/17 add tips BD, BE, BF. 2024/01/25 add tips BG. 2024/02/03 add tips BH. 2024/02/04 add tips BI. 2024/02/06 add tips BJ. 2024/02/08 add tips BK. 2024/02/09 add tips BL, BM. 2024/02/29 add tips BN, BO. 2024/03/01 add tips BP, BQ, 2024/03/01 add tips BR, BS, fix tips BR. 2024/03/05 add tips BT. 2024/03/07 add tips BU, might close with this. 2024/03/12 add and fix and fix warning. 2024/03/19 add note. 2024/03/20 add tips AF note. 2024/05/19 add appendix. 2024/05-07 add appendix B. 2024/07/24 add appendix C. 2024/10/01 add appendix D. add some of the knowns to appendix D. 2024/10/03 add some of the knowns to appendix D (ii), s/existance/existence/g. 2024/10/20 add appendix E. 2024/10/21 fix appendix E. 2024/10/22 fix and add appendix E, appendix D tag.
 

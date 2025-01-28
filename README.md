@@ -1058,7 +1058,7 @@ So implicit loop condition and their loop local variables also this lead to the 
 
 # Appendix X
 Also, the information amount can leads us to the chain:
-{{}, heat or globalizer, external(gene,environment), internal(neural), F-matrix, explicit combinations, N, R, f, localizer, {}} .
+\{\{\}, heat or globalizer, external(gene,environment), internal(neural), F-matrix, explicit combinations, N, R, f, localizer, \{\}\} .
 
 We can make the hypothesis on them as a duality of the chain exists such as a analogy to the imaginary numbers, either we can loop or connect their chain ends to another chains or chain itself.
 

@@ -1080,7 +1080,7 @@ However, even with the such condition we cannot avoid 3 or more of a pillar star
 Either, inserting low of a excluded middle can only single perspective warrant them as a result.
 
 # Appendix Z
-Along with this tan\<a,x\> form structure copying with information amount perspective, some of a predictions they copy structure then predict with last margin can have some of a data information amount glitch as a only half of a weight is warrant them.
+Along with this tan\<a,x\> form structure copying with information amount perspective, some of a predictions they copy structure then predict with last margin can have some of a data information amount glitch as a only half of a weight warrant them.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

@@ -1483,8 +1483,16 @@ However, the stream is unstable condition so last static one should have same in
 However, even in such a case, we might have the upper bound of input stream cases but without nonlinear x-axis scaling, we also have the hypothesis input stream prediction series isn't larger than some small numbers depends on input stream lines.
 
 So we should target the saturation of such tree coefficient modulation upper bound size.
-But we have them in internal state count up p9 meaning : 19,683 \* 19,683 as \{f,g\} for indirect use of invariant and #f countup glitch.
-Can we reduce them better small size?
+But we have them in internal state count up p9 meaning : 19,683 \* 19,683 as \{f,g\} for indirect use of invariant and #f countup glitch, this is upper bound on real function number (3\^(3\^3) the {input, output, states} is separable but each of them are not condition). This upper bound shirks whole transision into internal states bits and their tanglement.
+
+Another upper bound we have: 16bit + 16bit on p1 entropy however, another representation they uses negated logic can reduce them into 6bit + 6bit == 12bit long they count input/output only, anothers are same as tree coefficient modulation one.
+
+However, the upper bound below isn't insists it's whole predictable the next one step around 2/3 probability.
+They only insist AFTER getting the stream, each of the stream can be 2/3 probable.
+This is because much cultivated entropy always have 'perhaps +1 dimension' condition on each of input they results gulf of continuity.
+So it's the chase internal states layer the dynamics have vs. static model structure layer number have.
+
+After of all, if the stream is enough stable in deterministic function meaning, the long enough input stream can be predicted by predictor is the best effort for us.
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

@@ -1766,7 +1766,7 @@ Otherwise, they're compressed into something very small information amount size 
 # Appendix CG
 Also, the data structure part of {f} space is sometimes described as a binary tree of the function we firstly have often as arithmatic operations.
 
-Even such a space is data part but they're the place between {#f, heat} to {R,low of excluded middle}, so they should have the something meaning of {{f},\*\*\*} form.
+Even such a space is data part but they're the place between {#f, heat} to {R,low of excluded middle}, so they should have the something meaning of { {f},\*\*\*} form.
 
 On the other hand, we have some of the measurable conditions as p0, p1 nor some of the groups have NN conditions to shirk into their data but they might also be in a R's data space.
 

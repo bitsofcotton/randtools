@@ -1902,7 +1902,7 @@ There's many of the story insertions, so they might intend to control us but we 
 # Appendix CU
 We're betting any of the intention can be described as some of the optimization problem with base arithmetic combination or base intention.
 
-However, to show this is to exclude any another descriptions on the phenomenon, however in the mathematical form meaning, some of the Integrate f(x,y)g(x) dx can map g to arbitrary g' either information complement of them can be described as a optimization problem (is this one to one?).
+However, to show this is to exclude any another descriptions on the phenomenon, however in the mathematical form meaning, some of the Integrate f(x,y)g(x) dx can map g to arbitrary continuous g' either information complement of them can be described as a optimization problem (is this one to one?).
 
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing

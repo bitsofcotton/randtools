@@ -2000,7 +2000,7 @@ Also, we're intending to calculate variable size input variable size output by c
 
 (Added: From Fermat's theorem, in p^(2^n-1)==1 in F_2^n, so we're counting up to (p/m)-adic element, upper most siginificant byte needs to be the raw calculation result, lower bytes needs to be the over flowed values, then operator / with m in F_2^k because gcd(2,m) == gcd(2,p) == 1.
 
-Added(2): analogy to this, mod (c * 2^n) space we get most siginificant byte as f(x) s.t. ax+b mod c*2^n, so this is (f(x)-ax-b)|(c*2^n), so this is (f(x)/c-a/c*x-b/c)|2^n, if f(x) is carefully chosen, it's ok. (however this also have suspicious description around the choice is possible or not either the AC only effects to aleph_null or not.)
+Added(2): analogy to this, mod (c * 2^n) space we get most siginificant byte as f(x) s.t. ax+b mod c*2^n, so this is (f(x)-ax-b)\|(c*2^n), so this is (f(x)/c-a/c*x-b/c)\|2^n, if f(x) is carefully chosen, it's ok. (however this also have suspicious description around the choice is possible or not either the AC only effects to aleph_null or not.)
 
 However, this is after the algorithm calculation is done space, so we need to skid to some genus working this condition might be (rendered or not).)
 

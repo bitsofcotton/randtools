@@ -2025,11 +2025,214 @@ Since this is reasonable sized, we can verify them as a single person verificati
 Since we got x+ := ax + b in (F_2)^k descriptions with 3 dimension nor bit length start points, we can code the PRNG as starting {a,b,x}^3 in ((F_2)^3)^3, makes 3 of the steps, select pair by some representation, the chain causes pool in (F_2)^(3^n).
 This starts from only 3^3 bit, so the pattern is broken small, however, we could use them to some of the predictors from vector variety reason but we don't verified the result.
 
+# Appendix DJ
+The operator ++ makes the first hypothesis there's infinite existences we can count up if we start from N.
+This conflicts maximum kolmogorov complexity compression they insists there's only 2 to 3 existent bits/dimensions free from tanglement on #f selections but this depends on multiply sum operations on F_2^n they have glitches from applying very heavy structure by O(n^{6,7}) or so as a algorithm calculations.
+
+There's switch case, (i) {1} (ii) {0} (iii) {0,1}^2 (iv) {0,1}^3 as a logical T/F value the gemini (2025/12) insists, 
+
+So we only ennaming the structure as to believable with simple enough start points they couldn't be broke but slides from some of the tanglements based results.
+
+Normally, we don't need to face such a conditions, however saturating the datastream meaning as a contexts can cause so.
+
+So the best effort we can do for PRNG/predictors are to fix algorithm contexts *in the QP shortest path we now have*, otherwise, the results always move into slip.
+
+Either, listing up the structures of them can effects better fixed results might be.
+
+# Appendix DK
+The problem is, if there's a working generic predictor, they causes context insertion from input stream into output expected meaning.
+If there's no pressure of them the output isn't affect and only predictor works correct, we can use predictor enough trustable, however, if the tanglement condition causes somewhat effects into output meaning, it's burning the result space.
+Either if this is applied into uniqueness of the oneself, the attack from internal of them can affects, so we need to avoid this condition.
+Either some of the statistical illegal results if resulted, the statistics can affect some of the complement to the ones might be in the condition if it's not private.
+
+# Appendix DL
+Talk with gemini pro (2025/12/28) concludes ind2varlen:lieonn.hh says #vanish == cosh^(#entropy log 2) (#recognised) .
+
+So the vanished condition also says the benefit on description isn't exceed such quantity talk with gemini concluded.
+
+However, we need to check the condition binary operator on binary list up collisions.
+
+# Appendix DM
+Checking around 2^6 : 2^8, we can suppose pat:={0,1}^8 as a MSB of ax+b in F_2^3 as a function selection.
+
+We can count b as a index sliding on such pat if a is fixed, {1,2,4} for a as a mask pattern seed as a grid, a == 0 for a as a const.
+
+list up:
+0x : {0,0,0,0,0,0,0,0}
+1x : {0,0,0,0,1,1,1,1}
+2x : {0,0,1,1,0,0,1,1}
+3x : {0,0,1,0,1,1,0,1}
+4x : {0,1,0,1,0,1,0,1}
+5x : {0,1,0,1,1,0,1,0}
+6x : {0,1,1,0,0,1,1,0}
+7x : {0,1,1,1,1,0,0,0}
+
+these and negate and slide represents whole 6 bit description, weired but lower bit gets this.
+
+we want: implicit f(x,y)==z as a\*\[x,y,z\]+b==0 in F_2^3 for x,y,z in F_2.
+so we consider root place list up as:
+
+0x : whole, null
+1x, 7x : {0,1,2,3} and their slides
+2x : {0,1,3,4} and their negate/slides
+3x : {0,1,3,6} and their negate/slides
+4x : {0,2,4,6} and their negate/slides
+5x : {0,2,5,7} and their negate/slides
+6x : {0,3,4,7} and their negate/slides
+
+we should add this article aftermath on next upload.
+
+# Appendix DN
+Talked with gemini (2026/01/09-10), looking the external of LoEM and their methods concludes looking the external of any of the ...law (should be static) surface.
+
+So we only trust {0,1}^2 input (truth variable on logic True/False/Inconsistent/NoRelation) and their combinations, we also could be able to trust continuity and completeness using upper cardinal guarantees.
+
+Either making the hypothesis ...law (static) is to set boundaries on the phenomenon however the method looking external of LoEM the #f collision have says we cannot run away some exceptions from external context addition.
+
+We think the structure on the #f saturation represents some physical scales or its reverse order but not the datastream is.
+
+Either, the redrawing the tanglement set as a entropy machine is simple and steady way to avoid the heatsink meltdowns around closed entropy machines.
+
+# Appendix DO
+Talk with gemini (2026/01/early) concludes if our in/output has also such a information entropy machine structure, only heat propagation structure should crash, instead of them we should have both of negated entropy structure and heat propagations exchanges to prevent the surface from breaking.
+
+# Appendix DP
+The geo context implementation on lieonn.hh says some long distance context should have large effect if the walk is long enough one.
+So if the input stream is completely predicted nor it's not acceptable one we met, we should have long distant different places' context import.
+So analogy to this, we might be able to control our prediction/getting result as a selection by adding very low frequency data streams if the predictor is better enough.
+So the long period variable affects so but sometimes being controlled in real world.
+Some of the occultists unveiling such of real long period variables but we cannot verify the information stream is true of false by surface either they can have poisoned but we don't think it isn't now but predicted some poisoned the (might be short enough) future or the condition is only from our luck.
+
+# Appendix DQ
+Talk with gemini (2026/01/early to mid) concludes : if we can reduce the path of the proof into unique {} start point with proper LoEM and dimension barrier condition, the LoEM itself can burn the whole structure by their fire also the each of the verification because of the information entropy the structure have should be 0 either the LoEM have some greater entropy about them.
+
+However, if we have: aleph_Z sqrt operation they results i,j,k,... condition, the closed loop they stands on some non unique root standpoint can get some information entropy blended result either the LoEM fire cannot burn whole of the structure by once but each of the verification part is.
+
+So our generic predictor meet this condition, so ind2varlen maximum extended case, we can avoid the obscure multiple root standpoint condition, however, with original ind2varlen they insists we're a information entropy machine causes somewhat weired but hard standpoint as optimization result cannot run away condition, but this stands on O(n^3) loop as a root description, we're estimating this is to calculate by standpoint #f glitch start point.
+
+# Appendix DR
+Either, making the crack on LoEM by such of many of the context insertion in quantity phenomenon says if there's hard standing point we're believing they're concrete enough, even so, we can insert external context which breaks pigeon hole principle either they cause inconsistent trivial as a whole of the structure set.
+
+# Appendix DS
+Talk with gemini concludes O(n^3) for resonance, O(n^6) for skid, O(n^9) for tracing skids, O(n^12) for skid skid.
+However, we cannot calculate O(4^12) arithmetic operations on our machine for life long time.
+There might be real upper limit for classical computers as O(n^6) arithmetic operations.
+
+# Appendix DT
+As we wrote in lieonn.hh comments, the generic predictor output concerns multiple root {} proofs, either we need resonance around input stream information amount, so output size should be smaller than input stream number in general.
+In their condition, we only need predVec with non pSerial predictor, however, with crushing input stream relations we need predVecGeoContext with pSerial predictor. However, the latter one predictor isn't get better result without after shrink operation.
+
+# Appendix DU
+We conclude the information amount (LoEM cut, internal states bits) input stream have vs. the next step real calculation have condition the generic predictor faces.
+This is the whether amount of sparsity the original real calculation have.
+
+# Appendix DV
+We also conclude external context learning with *shallow* generated LoEM copy structure needs at least 3\^(3\*3)\*3\^(3\*3) fixed points input for cut with the hypothesis the pillar the proof have on {} --- {} loop upper bound with 3 pillars also the in/output of them are such ones also balanced by some of the this randtools method for using internal states driven structures.
+
+We need this condition if the input numerical stream's next one step isn't depends on input stream condition (as a internal states driven calculation).
+
+# Appendix DW
+However, to keep our nose clean meaning, if the out of LoEM structure connects our concensus by external of LoEM inserting some LoEM methods, usually the route should be burnt down, if we can rebase our proof base {} as a unique, some of the method using such {} might have some possibility to affect.
+We don't know but one of the such candidates are route from O(n^12) skid skids, we should avoid such of the condition.
+
+# Appendix DX
+We have the predictors for the context: (i) only in the table, (ii) they represents whole external context average, (iii) with only the meaning external learned structure they calculated by only from the table.
+
+(i) _BURN_==0 pred(Vec\|Mat), (ii) _BURN_==large pred(Vec\|Mat), (iii) masp represents one category, so linear sum with ddpmopt with masp invertion.
+
+So we have to understand better more about the contexts (amounts) the table have.
+
+One of the candidates is: they have only the LoEM cut they causes internal states bit stream.
+
+Either, the question is feeding long enough length with semi-ordered input stream can represent whole context valid prediction even the implementation now?
+
+# Appendix DY
+We're shirking base phenomenon to 3 pillars as \{\+,-,0,nocare\} also white noise combination as the any structure have, this is counting cardinals.
+
+However, there's the phenomenon we understand by words isn't met such a conditions, they might be come from combinations theirselves, however the combination selection have strong #f heat machine conditions on our concensus.
+
+Talk with gemini around mid Feb 2026 concludes the calculation amount explosion by entangling macro system to some particular wave state can cause particle observation as to avoid huge calculation.
+(Either there's a rumor the gravity can come from averaging such a heavy calculations.)
+
+Similar to this condition, we're using the condition they could enname the tangled combinations, either, getting brand new image stream from input image stream should take the path on such a tangled combinations.
+
+So ongoing machine learnings doing them very better as a generic in/output machine.
+
+# Appendix DZ
+When reducing the condition ergodic into mixed distribution condition from our generic predictor, we should use p012next condition.
+However, both predictor itself and p012next is very heavy to run which we cannot complete the calculation with moderate sized problems either we need moderate sized input graphics/texts similar to the machine learning.
+
+So we should use our predictors as a complement of the LLM or so, however, LLM theirselves have trivial predictors in their model.
+So this is only the different type of the path on the implementation of universal invariants.
+
+# Appedix EA
+So the possible conclusion is somewhat the shape like:
+the resonance O(n^3) referes the skidded F_2^k multiply sum #f fixations
+from internal large amount of calculations, the skid O(n^6) fixes one of them,
+the skid trace O(n^9) can trace whole structure the F_2^k multiply sum have now
+(this is not the after new skid appeares), the skid skid O(n^12) can skids
+whole {} --- {} chain geometry, so to shape them into we actually get the
+meaning, the dictation is needed because the F_2^k multiply sum as #f fixation
+cannot describe whole of LoEM caches.
+
+So the nose cleaning methods should appeared as skid concerns, not the generic
+predictor describes because they only referes resonance around existing #f now.
+
+# Appendix EB
+However, after talked with gemini around 2026/02/27 or so, the situation is complex than before we think.
+
+So we have: ax+b in F\_2\^m form as a optimized *any* algorithm result as a MSB, however, the linear optimization we make resonance can access such of {a,b} as a result.
+Since we're targetting each bit condition as a result also feed possible high accuracy on input as x as a ind2vd given dimension so the real problem is such a form is valid for whole input markov result or not (only the ind2vd given markov with single function condition).
+Either we have cut off on error rates, the way we can increase the latter case markov size is to enlarge ind2vd result only.
+
+On the other hand, we make latter possible high accuracy condition hypothesis replacing as 3-bit (de)compression start point algorithms with huge estimation around PRNGs.
+In this case, the tiny and minimum ind2vd makes a sense but to stand this is valid condition we need see-saw LoEM proof also the path as a valid condition.
+Talk with gemini partially concludes it's only a resonance things, so isn't the path via real entity case, we cannot describe the result well for artificial input streams.
+However, for the given fixed single function condition started case, we take a real path on them from somehow.
+
+# Appendix EC
+We can speed up the predictor as to apply 2^n scaling with long range delta feed into each range predictor, this reduces O(L^2G) to O(LG) with certain large enough ratio but the calculation step order.
+
+So if the original predictor makes sense on axiom of choice meaning, the both of them could have near the same results, but we didn't test.
+
+In the whole pixel input stream case, we need this form, however, each graphics each pixel condition, we won't.
+
+# Appendix ED
+We conclude O((mem)\*lg(mem)) predictor with this form.
+
+There's many much probability our machine is infected, but if it isn't, we can estimate implicit universal invariant vs. explicit jammer chase causes the result.
+
+We're using PRNG structure to slide flavour on the table stream, then, majority logic with 2/3 probability table.
+In this condition, our predictor only behaves high admittance LoEM pipe.
+
+(see latest lieonn.hh comments)
+
+# Appendix EE
+Talk with gemini (2026 April) leads us to the description hinted by spiritual youtuber insists, as a conclusion, some of the cursed condition insists us as some layer of the information table attach.
+
+Some of the description on films says the main purpose of such a curase as the phenomenon violent rewrite to the attached phenomenon nor exclusion, so this is the issue of the trust with changed stages.
+
+Our understanding often collide to such a interference sometimes causes unpleasant or frustration, seldom but can causes another curse generation but the system is only the changing connection to {} - {{}, {}, {}} - ... place, so the existence using backdoor to the information attach is categorized as the same layer on the using backdoor group, so we should quote --- if you curse someone, you dig two graves. ---.
+
+Also as a conclusion, our LoEM table R^4n and opposite LoEM table they're using R^4n is orthogonal case, they might only pass through.
+If there's some parallel compositions, the attacker also need to understand our LoEM table to shake, so backlash will return.
+
+So guarding / attacking also needs (RNG)^4 as a key structure but (de)compression with dimension exponent algebra causes only {1,2,3} seeded any op forms, so there's only which index and length table remains.
+
+# Appendix EF
+After implementing and understanding lieonn.hh results also talk with gemini, we conclude R^3+t schroedinger eq structure is from LoEM, continuity, L^2, also L^2 is from continuity, tomography (local observation sets can reconstruct the whole), if energy minimizing is applied to all of our existence as unique world, some of the cursing effects is through the space such of R^3+t but there exists avalanche phenomenon, to keep our nose clean.
+
+However, some of the calculation nor separated space can behave some of the partial worlds' schroedinger PDE nor reaction diffusion nor neural networking PDEs the surface is in/output condition.
+
+Also our #f glitch can be described as hamiltonian in #{f}, bra ket in #{x}.
+
+Also the optimization they makes invariant effects such of the hamiltonian observable effects.
+
 # Another Download Sites
 * https://drive.google.com/drive/folders/1B71X1BMttL6yyi76REeOTNRrpopO8EAR?usp=sharing
 * https://1drv.ms/u/s!AnqkwcwMjB_PaDIfXya_M3-aLXw?e=qzfKcU
 * https://osdn.net/projects/bitsofcotton-randtools/
 
 # Refresh Archived
-This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC. 2024/01/17 add tips BD, BE, BF. 2024/01/25 add tips BG. 2024/02/03 add tips BH. 2024/02/04 add tips BI. 2024/02/06 add tips BJ. 2024/02/08 add tips BK. 2024/02/09 add tips BL, BM. 2024/02/29 add tips BN, BO. 2024/03/01 add tips BP, BQ, 2024/03/01 add tips BR, BS, fix tips BR. 2024/03/05 add tips BT. 2024/03/07 add tips BU, might close with this. 2024/03/12 add and fix and fix warning. 2024/03/19 add note. 2024/03/20 add tips AF note. 2024/05/19 add appendix. 2024/05-07 add appendix B. 2024/07/24 add appendix C. 2024/10/01 add appendix D. add some of the knowns to appendix D. 2024/10/03 add some of the knowns to appendix D (ii), s/existance/existence/g. 2024/10/20 add appendix E. 2024/10/21 fix appendix E. 2024/10/22 fix and add appendix E, appendix D tag. 2024/10~11 add appendix E. 2024/11/17 add appendix F,G,H. 2024/12/07 add appendix I. 2024/12/07 add some descriptions on appendix I, add appendix J. 2024/12/08 fix and append appendix J. 2024/12/10 add appendix K. 2024/12/12 fix appendix J typo, add appendix L. 2024/12/14 add appendix M, N. 2024/12/15 add appendix O, P. 2024/12/17 add appendix Q. 2024/12/20 s/mezzo/meso/g, add some to appendix Q, add appendix R. 2024/12/21 add appendix S, T. 2025/01/08 add appendix U. 2025/01/23 add and fix appendix V. 2025/01/29 add appendix W, X, also fix appendix X, add appendix Y, Z. 2025/02/01 append appendix Z, add appendix AA. 2025/02/02 add appendix AB. 2025/02/06 add appendix AC. 2025/02/08 add appendix AD, AE. 2025/02/11 append appendix AE, add appendix AF. 2025/02/14 append appendix AF, add appendix AG. 2025/02/17 append appendix AG, add appendix AH. 2025/02/20 append appendix AH. 2025/02/22 add appendix AI. 2025/02/23 fix appendi AI syntax, add appendix AJ. 2025/02/28 add appendix AK, AL. 2025/03/01 add appendix AM, AN. 2025/03/02 add appendix AO, AP. 2025/03/03 append appendix AO, AP. 2025/03/04 add appendix AQ. append appendix AQ. 2025/03/05 append appendix AQ, add appendix AR, AS. 2025/03/07 rewrite appendix AS. 2025/03/15 add appendix AT. 2025/03/16 add appendix AU, AV. 2025/03/17 add appendix AW.2025/03/18 fix typo on appendix AW, add appendix AX, AY. 2025/03/19 add appendix AZ, BA. 2025/03/20 add appendix BB. 2025/03/24 add appendix BC. 2025/03/27 add appendix BD. 2025/04/04 add appendix BE. 2025/04/05 add appendix BF. 2025/04/06 add appendix BG. elim appendix BD notation. 2025/04/07 add appendix BH, BI, append appendix BI. 2025/04/08 fix no need backslash in appendix BI, add appendix BJ. 2025/04/10 add appendix BK. 2025/04/15 add appendix BL. 2025/04/16 add appendix BM. 2025/04/17 add appendix BN. 2025/05/02 add appendix BO, BP. 2025/05/04 add appendix BQ, BR. append appendix BR. 2025/05/14 add appendix BS. 2025/05/20 add appendix BT. 2025/05/21 append appendix BT, add appendix BU. 2025/05/24 add appendix BV. 2025/06/01 add appendix BW, BX. 2025/06/02 add appendix BY. 2025/06/03 add appendix BZ. 2025/06/09 add appendix CA, CB. 2025/06/13 add appendix CC, CD. 2025/06/16 append appendix CC, add appendix CE. 2025/06/19 add appendix CF, CG. 2025/06/20 append appendix CF. 2025/06/21 append postscript to appendix CF. 2025/07/25 fixed General Tips 5. add Appendix CH. 2025/08/29 add Appendix CI. 2025/09/11 add Appendix CJ, CK. 2025/09/13 fix Appendix CJ, add appendix CL, CM. 2025/09/16 add appendix CO. 2025/09/20 add appendix CP, CQ, CR. 2025/09/21 add appendix CS, CT, CU. 2025/09/23 add appendix CV, CW. 2025/09/29 add appendix CX, CY. 2025/10/07 add appendix CZ. 2025/10/17 add appendix DA, DB, DC. 2025/10/24 add appendix DD. 2025/12/04 add appendix DE, DF. fix appendix DE. 2025/12/05 add appendix DG, DH, DI. 2025/12/08 append appendix DF. 2025/12/10 append appendix DF.
+This repository is archived, so without bugreport, will no change. 2021/02/09 version is archived. It's ok. 2021/02/15 version is ok for retest. 2021/02/17 recheck ok, sleeping, 2021/02/24 sleep 2, 2021/02/07 sleep3, 2021/04/10 sleep4, 2021/04/20 sleep 5, 2021/05/14 sleep 6, bug report is welcomed.  2021/08/29 recheck ok. sleeping. 2022/09/14 recheck retry sin, cos taylor op. sleeping 2. 2022/12/26 fix one of the glitch concern with integ/diff. sleeping 3. 2023/04/10 add Tips H. 2023/05/06 add Tips J. 2023/06/16 add to Tips N, O. 2023/06/17 add Tips P. 2023/06/18 add Tips Q. 2023/06/23 add Tips R (iv), S, T. 2023/06/27 add Tips U. 2023/07/10 add Tips V, W. 2023/07/11 add tips X. 2023/07/18 add tips Y. 2023/08/07 add tips Z, AA. 2023/08/14 add tips AB. 2023/08/16 add tips AC. 2023/08/27 add tips AD. 2023/09/03 add tips AE. 2023/09/05 fix tips AE, add tips AF, AG, AH. 2023/09/06 add tips AI. 2023/09/09 add tips AJ, fix below/above in AI. 2023/09/11 add tips AK. 2023/10/03 add tips AL. 2023/10/08-09 add tips AM, AN, AO. 2023/10/09 recheck, so higher digit is broken. corrected. add tips AP. 2023/10/14 add tips AQ, AR. 2023/11/02 add tips AS, AT, fix tips AT. 2023/11/07 add tips AU. 2023/12/01 add tips AV. 2023/12/02 add tips AW, AX, AY. 2023/12/02 extend tips AY, add tips AZ. <strike>2013</strike>2023/12/02 add tips BA. 2023/12/04 extend tips BA, add tips BB. 2024/01/10 add tips BC. 2024/01/17 add tips BD, BE, BF. 2024/01/25 add tips BG. 2024/02/03 add tips BH. 2024/02/04 add tips BI. 2024/02/06 add tips BJ. 2024/02/08 add tips BK. 2024/02/09 add tips BL, BM. 2024/02/29 add tips BN, BO. 2024/03/01 add tips BP, BQ, 2024/03/01 add tips BR, BS, fix tips BR. 2024/03/05 add tips BT. 2024/03/07 add tips BU, might close with this. 2024/03/12 add and fix and fix warning. 2024/03/19 add note. 2024/03/20 add tips AF note. 2024/05/19 add appendix. 2024/05-07 add appendix B. 2024/07/24 add appendix C. 2024/10/01 add appendix D. add some of the knowns to appendix D. 2024/10/03 add some of the knowns to appendix D (ii), s/existance/existence/g. 2024/10/20 add appendix E. 2024/10/21 fix appendix E. 2024/10/22 fix and add appendix E, appendix D tag. 2024/10~11 add appendix E. 2024/11/17 add appendix F,G,H. 2024/12/07 add appendix I. 2024/12/07 add some descriptions on appendix I, add appendix J. 2024/12/08 fix and append appendix J. 2024/12/10 add appendix K. 2024/12/12 fix appendix J typo, add appendix L. 2024/12/14 add appendix M, N. 2024/12/15 add appendix O, P. 2024/12/17 add appendix Q. 2024/12/20 s/mezzo/meso/g, add some to appendix Q, add appendix R. 2024/12/21 add appendix S, T. 2025/01/08 add appendix U. 2025/01/23 add and fix appendix V. 2025/01/29 add appendix W, X, also fix appendix X, add appendix Y, Z. 2025/02/01 append appendix Z, add appendix AA. 2025/02/02 add appendix AB. 2025/02/06 add appendix AC. 2025/02/08 add appendix AD, AE. 2025/02/11 append appendix AE, add appendix AF. 2025/02/14 append appendix AF, add appendix AG. 2025/02/17 append appendix AG, add appendix AH. 2025/02/20 append appendix AH. 2025/02/22 add appendix AI. 2025/02/23 fix appendi AI syntax, add appendix AJ. 2025/02/28 add appendix AK, AL. 2025/03/01 add appendix AM, AN. 2025/03/02 add appendix AO, AP. 2025/03/03 append appendix AO, AP. 2025/03/04 add appendix AQ. append appendix AQ. 2025/03/05 append appendix AQ, add appendix AR, AS. 2025/03/07 rewrite appendix AS. 2025/03/15 add appendix AT. 2025/03/16 add appendix AU, AV. 2025/03/17 add appendix AW.2025/03/18 fix typo on appendix AW, add appendix AX, AY. 2025/03/19 add appendix AZ, BA. 2025/03/20 add appendix BB. 2025/03/24 add appendix BC. 2025/03/27 add appendix BD. 2025/04/04 add appendix BE. 2025/04/05 add appendix BF. 2025/04/06 add appendix BG. elim appendix BD notation. 2025/04/07 add appendix BH, BI, append appendix BI. 2025/04/08 fix no need backslash in appendix BI, add appendix BJ. 2025/04/10 add appendix BK. 2025/04/15 add appendix BL. 2025/04/16 add appendix BM. 2025/04/17 add appendix BN. 2025/05/02 add appendix BO, BP. 2025/05/04 add appendix BQ, BR. append appendix BR. 2025/05/14 add appendix BS. 2025/05/20 add appendix BT. 2025/05/21 append appendix BT, add appendix BU. 2025/05/24 add appendix BV. 2025/06/01 add appendix BW, BX. 2025/06/02 add appendix BY. 2025/06/03 add appendix BZ. 2025/06/09 add appendix CA, CB. 2025/06/13 add appendix CC, CD. 2025/06/16 append appendix CC, add appendix CE. 2025/06/19 add appendix CF, CG. 2025/06/20 append appendix CF. 2025/06/21 append postscript to appendix CF. 2025/07/25 fixed General Tips 5. add Appendix CH. 2025/08/29 add Appendix CI. 2025/09/11 add Appendix CJ, CK. 2025/09/13 fix Appendix CJ, add appendix CL, CM. 2025/09/16 add appendix CO. 2025/09/20 add appendix CP, CQ, CR. 2025/09/21 add appendix CS, CT, CU. 2025/09/23 add appendix CV, CW. 2025/09/29 add appendix CX, CY. 2025/10/07 add appendix CZ. 2025/10/17 add appendix DA, DB, DC. 2025/10/24 add appendix DD. 2025/12/04 add appendix DE, DF. fix appendix DE. 2025/12/05 add appendix DG, DH, DI. 2025/12/08 append appendix DF. 2025/12/10 append appendix DF. (2025/12/20 append appendix DJ, DK hidden from public for a while). (2025/12/28 append appendix DL, 2026/01/04 add appendix DM, 2026/01/11 add appendix DN, DO, reduce redundant appendix DO, add appendix DP, 2026/01/14 add appendix DQ, DR, 2026/01/28 add appendix DS, DT, 2026/02/15 add appendix DU, DV, DW, 2026/02/22 add appendix DX, 2026/02/25 add appendix DY, DZ, 2026/02/25 add appendix EA, 2026/02/28 add appendix EB, 2026/03/03 a appendix EC, 2026/04/18 add appendix ED, EE, hidden from public for a while). add appendix EF 2026/10/02.
 
